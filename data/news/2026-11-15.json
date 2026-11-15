@@ -1,0 +1,120 @@
+{
+  "date": "2026-11-15",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "🏘️",
+      "category": "HABITAÇÃO & PROTESTO",
+      "stories": [
+        {
+          "headline": "Praça da República tomada por tendas. Coimbra junta-se à revolta nacional pela habitação",
+          "text": "Cerca de 15 tendas foram montadas na Praça da República, onde movimentos e repúblicas de estudantes prometem permanecer dia e noite durante uma semana para exigir habitação digna e contestar as alterações à lei do arrendamento. Depois de Lisboa e Porto, Coimbra é agora palco desta forma de protesto, que incluiu um jantar comunitário gratuito e uma Assembleia Popular aberta a todos."
+        },
+        {
+          "headline": "Coimbra prepara noite de acampada. Eis o \"kit essencial\" para dormir na rua",
+          "text": "A Acampada de Coimbra lançou um convito para uma possível noite na Praça da República após a manifestação. Levar roupa quente, algo para dormir e tudo o que ajude a passar a noite em segurança e conforto é o espírito do apelo, embora a decisão final coube aos participantes."
+        },
+        {
+          "headline": "\"A maior onda da Nazaré é a crise da habitação\"",
+          "text": "Centenas de pessoas saíram à rua em Leiria para reivindicar o direito à habitação. Jovens trabalhadores com licenciatura desabafaram não conseguir autonomia ou ter de ter dois empregos para pagar a renda. O movimento Porta a Porta considerou esta a jornada mais ampla de luta desde o 25 de Abril, com manifestações em 32 cidades."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Ai Jesus! Dinamarca goleia e derrete Portugal",
+          "text": "Portugal, já apurado, foi goleado em casa pela Dinamarca por 4-1 na Liga das Nações, a primeira derrota sob Jorge Jesus e a pior derrota caseira de sempre em jogos oficiais. A liderança do grupo decide-se na última ronda, bastando um ponto no País de Gales para garantir o primeiro lugar."
+        }
+      ]
+    },
+    {
+      "emoji": "🎬",
+      "category": "CULTURA & CINEMA",
+      "stories": [
+        {
+          "headline": "Coimbra volta a ser a capital do cinema português durante oito dias",
+          "text": "A 32.ª edição do Festival Caminhos do Cinema Português arrancou oficialmente este sábado no Teatro Académico de Gil Vicente. Durante oito dias, o festival destaca o cinema português com secções competitivas, mostras paralelas, sessões especiais e iniciativas de formação de públicos."
+        },
+        {
+          "headline": "Sala de cinema nas Galerias Avenida vai ser reabilitada",
+          "text": "A Câmara Municipal de Coimbra aderiu ao concurso para a reabilitação do Estúdio 2 da Casa do Cinema de Coimbra, nas Galerias Avenida. A intervenção pretende melhorar acessibilidade, segurança, conforto e qualidade técnica da sala."
+        },
+        {
+          "headline": "Coimbra recebe ópera inspirada nas histórias de Miguel Torga",
+          "text": "Uma ópera inspirada nas histórias e personagens de Miguel Torga vai ser apresentada em Coimbra, juntando literatura e música numa iniciativa cultural da cidade."
+        }
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "category": "REGIÃO & INSTITUIÇÕES",
+      "stories": [
+        {
+          "headline": "ADIP faz 30 anos e Jaime Soares deixa alerta ao Governo: \"As instituições lutam para sobreviver\"",
+          "text": "A Associação de Desenvolvimento Integrado de Poiares celebrou três décadas numa gala no Centro Cultural de Poiares. O presidente da direção, Jaime Marta Soares, alertou para as dificuldades financeiras e a burocracia abismal que afetam as IPSS, defendendo melhores condições salariais para os trabalhadores do setor social."
+        },
+        {
+          "headline": "Alcains ganha um dos melhores Centros de Saúde do país",
+          "text": "O novo Centro de Saúde de Alcains, no concelho de Castelo Branco, foi inaugurado com um investimento de cerca de 1,7 milhões de euros, financiado pelo Município e por fundos comunitários do PRR. A infraestrutura representa um salto significativo na resposta de saúde da localidade."
+        },
+        {
+          "headline": "Leiria+ abre uma nova porta para aproximar os cidadãos dos serviços municipais",
+          "text": "O município de Leiria lançou uma nova iniciativa para aproximar os cidadãos dos serviços municipais, facilitando o acesso e o contacto com a câmara."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & CRIMES",
+      "stories": [
+        {
+          "headline": "Tirou a pulseira eletrónica e fugiu para Espanha. PJ apanha homem foragido há dois anos",
+          "text": "A Polícia Judiciária deteve no Porto um homem que estava em prisão domiciliária, retirou a pulseira eletrónica e fugiu para Espanha. Era alvo de um mandado de detenção europeu emitido em 2024 e regressou a Portugal este ano, sendo agora localizado e detido."
+        },
+        {
+          "headline": "Jovem mata primo à facada por acreditar que estava a abusar do irmão",
+          "text": "Um jovem de 25 anos foi acusado de dois crimes de homicídio depois de esfaquear dois primos em Lisboa. Um dos homens morreu. O caso aconteceu em maio numa habitação na Calçada do Tojal, em Benfica."
+        },
+        {
+          "headline": "Ex-presidente da ULS de Aveiro continua detido e os outros dois arguidos foram libertados",
+          "text": "No âmbito do caso da Unidade Local de Saúde de Aveiro, o ex-presidente mantém-se em detenção enquanto os outros dois arguidos foram libertados."
+        }
+      ]
+    },
+    {
+      "emoji": "🎄",
+      "category": "NATAL & LAZER",
+      "stories": [
+        {
+          "headline": "O maior Pai Natal do mundo está de volta e Águeda tem novas atrações",
+          "text": "Águeda acendeu as luzes natalícias este sábado com os Némanus. O maior Pai Natal do mundo regressa como principal atração, acompanhado de novas figuras como um boneco de neve gigante. A programação decorre diariamente até ao final de janeiro, com a parada de Natal marcada para 28 de novembro."
+        },
+        {
+          "headline": "Aldeia de Oliveira do Hospital transforma-se num mundo mágico durante o Natal",
+          "text": "Lagares da Beira recebe a Aldeia Mágica da Beira de 5 de dezembro a 3 de janeiro, com concertos, cinema, aulas de fitness, fogueiras tradicionais e o Cantar das Janeiras. O bilhete geral custa cinco euros e as entradas diárias um euro na maioria dos dias."
+        },
+        {
+          "headline": "São João do Campo recebe festival dedicado às sopas com takeaway",
+          "text": "O Centro Social Paroquial de São João do Campo organiza este domingo o Festival das Sopas, com bifanas, doces e castanhas. O evento decorre debaixo de cobertura e oferece serviço de takeaway para quem preferir levar a refeição para casa."
+        }
+      ]
+    },
+    {
+      "emoji": "🌍",
+      "category": "CENTRO DO PAÍS",
+      "stories": [
+        {
+          "headline": "Guarda recebe congresso mundial de turismo com mais de 650 participantes",
+          "text": "A Guarda acolhe nos dias 18 e 19 de novembro o II Congresso Mundial de Turismo do Interior, no Teatro Municipal. Organizado pela AITI, o encontro reúne responsáveis institucionais e profissionais do setor turístico de Portugal e Espanha."
+        },
+        {
+          "headline": "Covilhã precisa mais do que fundos imobiliários a preços de luxo",
+          "text": "A cidade da Covilhã enfrenta o desafio da habitação para além da oferta dos fundos imobiliários a preços de luxo, numa discussão sobre o futuro urbano da cidade."
+        }
+      ]
+    }
+  ]
+}
