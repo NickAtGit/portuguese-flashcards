@@ -32925,5 +32925,103 @@
       "pt": "a cooperativa",
       "de": "die Genossenschaft"
     }
+  ],
+  "2026-11-15": [
+    {
+      "pt": "arredar pé",
+      "de": "nicht weichen",
+      "en": "to budge/move from a place",
+      "example": "Os organizadores prometem não arredar pé durante uma semana",
+      "example_de": "Die Organisatoren versprechen, eine Woche lang nicht zu weichen",
+      "example_en": "The organisers promise not to budge for a week"
+    },
+    {
+      "pt": "goleado",
+      "de": "abgeschlachtet",
+      "en": "thrashed/routed (sports)",
+      "example": "Portugal foi goleado em casa pela Dinamarca por 4-1",
+      "example_de": "Portugal wurde zu Hause von Dänemark mit 4-1 abgeschlachtet",
+      "example_en": "Portugal was thrashed at home by Denmark 4-1"
+    },
+    {
+      "pt": "o sufoco",
+      "de": "die finanzielle Klemme",
+      "en": "tight spot/financial squeeze",
+      "example": "Para não passarem por um sufoco financeiro",
+      "example_de": "Um nicht in finanzielle Bedrängnis zu geraten",
+      "example_en": "To avoid being in a financial squeeze"
+    },
+    {
+      "pt": "desabafar",
+      "de": "sich aussprechen",
+      "en": "to vent/open up",
+      "example": "Desabafou que é assistente social e ganha pouco",
+      "example_de": "Sie klagte, dass sie Sozialarbeiterin ist und wenig verdient",
+      "example_en": "She vented that she's a social worker and earns little"
+    },
+    {
+      "pt": "o matraquilhos",
+      "de": "das Tischfußball",
+      "en": "table football/foosball",
+      "example": "Um torneio de matraquilhos agendado para 26 de dezembro",
+      "example_de": "Ein Tischfußballturnier am 26. Dezember geplant",
+      "example_en": "A foosball tournament scheduled for December 26th"
+    },
+    {
+      "pt": "o ordenado",
+      "de": "das Gehalt",
+      "en": "salary/wages",
+      "example": "Ganha pouco mais do que o ordenado mínimo",
+      "example_de": "Sie verdient kaum mehr als den Mindestlohn",
+      "example_en": "She earns little more than minimum wage"
+    },
+    {
+      "pt": "abismal",
+      "de": "abgründig",
+      "en": "abysmal/appalling",
+      "example": "Há uma burocracia abismal",
+      "example_de": "Es gibt eine abgründige Bürokratie",
+      "example_en": "There is abysmal bureaucracy"
+    },
+    {
+      "pt": "o jantar comunitário",
+      "de": "das Gemeinschaftsessen",
+      "en": "community dinner",
+      "example": "Foi organizado um jantar comunitário gratuito",
+      "example_de": "Es wurde ein kostenloses Gemeinschaftsessen organisiert",
+      "example_en": "A free community dinner was organized"
+    },
+    {
+      "pt": "o cantar das janeiras",
+      "de": "das Neujahrslied-Singen",
+      "en": "traditional New Year caroling",
+      "example": "O tradicional Cantar das Janeiras no primeiro dia do ano",
+      "example_de": "Das traditionelle Neujahrslied-Singen am ersten Tag des Jahres",
+      "example_en": "The traditional New Year caroling on the first day of the year"
+    },
+    {
+      "pt": "a fanfarra",
+      "de": "die Fanfare/Blaskapelle",
+      "en": "brass band/fanfare",
+      "example": "A atuação da Fanfarra dos Bombeiros Voluntários",
+      "example_de": "Der Auftritt der Blaskapelle der Freiwilligen Feuerwehr",
+      "example_en": "The performance of the Volunteer Firefighters' brass band"
+    },
+    {
+      "pt": "o peddy-paper",
+      "de": "die Schnitzeljagd",
+      "en": "scavenger hunt (paper-based)",
+      "example": "Um Peddy-Paper Christmas agendado para 26 de dezembro",
+      "example_de": "Eine Weihnachtsschnitzeljagd am 26. Dezember geplant",
+      "example_en": "A Christmas scavenger hunt scheduled for December 26th"
+    },
+    {
+      "pt": "o desportivo",
+      "de": "das Sportliche",
+      "en": "sports (adj)",
+      "example": "Estão previstas aulas de Christmas Fitness e atividades desportivas",
+      "example_de": "Es sind Christmas Fitness Kurse und sportliche Aktivitäten geplant",
+      "example_en": "Christmas Fitness classes and sports activities are planned"
+    }
   ]
 }
