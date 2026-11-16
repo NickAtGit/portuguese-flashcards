@@ -1,0 +1,110 @@
+{
+  "date": "2026-11-16",
+  "source": "noticiasdecoimbra.pt",
+  "sections": [
+    {
+      "emoji": "⛅",
+      "category": "METEO & REGIÃO",
+      "stories": [
+        {
+          "headline": "Portugal vai ter dias de chuva intensa, mas há surpresa no fim de semana",
+          "text": "Portugal prepara-se para mais uma semana marcada pela chuva, vento e passagem de várias frentes atlânticas. A precipitação deverá atingir o Norte e Centro com maior persistência, antes de uma possível melhoria no fim de semana."
+        },
+        {
+          "headline": "Incêndio numa cozinha faz 3 feridos na Pampilhosa",
+          "text": "Um incêndio deflagrou na cozinha de uma vivenda na Pampilhosa, concelho da Mealhada, provocando três feridos ligeiros. Entre os feridos estão a proprietária (70 anos) e dois jovens que passavam na rua e entraram para ajudar."
+        },
+        {
+          "headline": "Feira do Mel e da Castanha da Lousã ajuda a recuperar a serra",
+          "text": "A 35.ª Feira do Mel e da Castanha decorre de 20 a 22 de novembro com 117 expositores. Este ano, a câmara oferece castanheiros a quem comprar mel, numa iniciativa de repovoamento da Serra da Lousã após os incêndios. Luís Trigacheiro e Ana Bacalhau são os cabeças de cartaz."
+        },
+        {
+          "headline": "Alunos ensinam idosos a utilizar smartphones em Soure",
+          "text": "Estudantes do Curso Profissional de Multimédia do Agrupamento de Escolas Martinho Árias ensinaram idosos a usar smartphones, numa iniciativa de partilha de conhecimentos entre gerações."
+        },
+        {
+          "headline": "Padre com 111 mil seguidores no Instagram vem a Coimbra",
+          "text": "O padre Pedro Figueiredo, conhecido pela sua presença nas redes sociais, está em Coimbra a 17 de novembro para uma conversa sobre fé e redes sociais com o tema \"Fé no Feed - De Seguidores a Discípulos\"."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "category": "JUSTIÇA & POLÍCIAS",
+      "stories": [
+        {
+          "headline": "Lancha suspeita foge à Polícia Marítima e encalha com 600 litros de combustível",
+          "text": "A Polícia Marítima apreendeu uma embarcação de alta velocidade e 20 jerricãs de combustível no rio Tejo, junto à foz do rio Sorraia, numa operação de combate ao narcotráfico. A embarcação colocou-se em fuga ao detetar a polícia e acabou por encalhar."
+        },
+        {
+          "headline": "Falsa taróloga saca 400 mil euros a mulher amaldiçoada",
+          "text": "Uma falsa taróloga e o marido foram detidos pela PJ por burlarem uma mulher de 60 anos em mais de 400 mil euros. A vítima foi convencida de que o dinheiro estava amaldiçoado e precisava de ser purificado, numa altura em que atravessava um período emocional difícil."
+        },
+        {
+          "headline": "Sindicatos da PSP e GNR esperam proposta concreta do ministro",
+          "text": "Os sindicatos da PSP e associações da GNR reúnem-se com o ministro da Administração Interna, Luís Neves, esperando uma proposta concreta sobre remunerações e suplemento."
+        },
+        {
+          "headline": "Polícia de folga agredido à porta de discoteca no Cais do Sodré",
+          "text": "Um agente da PSP, que se encontrava de folga, foi agredido por dois vigilantes de uma discoteca no Cais do Sodré, em Lisboa. O polícia sofreu ferimentos na cara e boca e foi transportado para o hospital de São José."
+        },
+        {
+          "headline": "Homem encontrado morto em terreno com lixo em Castro Marim",
+          "text": "Um homem estrangeiro de cerca de 50 anos foi encontrado sem vida num terreno com acumulação de lixo em Altura, concelho de Castro Marim. O corpo teria sido descoberto três dias após o falecimento."
+        }
+      ]
+    },
+    {
+      "emoji": "⚽",
+      "category": "DESPORTO",
+      "stories": [
+        {
+          "headline": "Académica escapa à derrota em Portimão (0-0)",
+          "text": "Um ineficaz Portimonense desperdiçou várias oportunidades de golo, incluindo um penálti falhado e bolas nos ferros, e empatou 0-0 com a Académica na 11.ª jornada da II Liga. A equipa de Coimbra teve sorte e saiu com um ponto."
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "category": "NOTÍCIAS DO CENTRO",
+      "stories": [
+        {
+          "headline": "Homem morre após carrinha embater numa casa nas Caldas da Rainha",
+          "text": "Um homem morreu após um violento despiste de uma carrinha em Carvalhal Benfeito, Caldas da Rainha. A viatura saiu da estrada, embateu num poste de eletricidade e colidiu contra uma casa."
+        },
+        {
+          "headline": "Aveiro Tech Week: sete dias de tecnologia, IA e videojogos",
+          "text": "A Câmara Municipal de Aveiro promove de 16 a 22 de novembro a 7.ª edição da Aveiro Tech Week, reunindo especialistas, empresas e estudantes para debater transformação digital e inovação."
+        }
+      ]
+    },
+    {
+      "emoji": "🇵🇹",
+      "category": "PORTUGAL",
+      "stories": [
+        {
+          "headline": "Escola Nacional de Bombeiros com dificuldades para pagar formadores",
+          "text": "A Escola Nacional de Bombeiros tem dificuldades em pagar aos formadores externos. A formação aumentou cerca de 20% este ano e já ultrapassou os 900 mil euros, segundo carta enviada aos formadores."
+        },
+        {
+          "headline": "Apanhar azevinho e musgo para o Natal pode dar multas de milhares de euros",
+          "text": "A recolha de azevinho selvagem e certas espécies de musgo para decoração natalícia e presépios está proibida em Portugal. As multas podem atingir milhares de euros."
+        }
+      ]
+    },
+    {
+      "emoji": "🎄",
+      "category": "VAMOS & LAZER",
+      "stories": [
+        {
+          "headline": "Workshops de bolachas, trufas e árvores comestíveis na Murtosa",
+          "text": "A Murtosa celebra o Natal de 28 de novembro a 29 de dezembro com Feirinha de Natal, espetáculos e workshops. O programa inclui insufláveis, pinturas faciais e chegada do Pai Natal a 24 de dezembro."
+        },
+        {
+          "headline": "José, o último cadeireiro de Alcafozes, ainda faz cadeiras aos 89 anos",
+          "text": "José Antunes, conhecido como Ti Zé Parrato, é o último cadeireiro de Alcafozes, no concelho de Idanha-a-Nova. Começou a fazer cadeiras aos 23 anos e, mais de seis décadas depois, mantém viva a arte artesanal."
+        }
+      ]
+    }
+  ]
+}
