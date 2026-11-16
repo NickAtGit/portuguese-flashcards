@@ -11750,7 +11750,7 @@
       "example_en": "Eating roast goat and escarpiada in Condeixa."
     },
     {
-      "pt": "o trafego",
+      "pt": "o tráfego",
       "de": "der Verkehr",
       "en": "the traffic",
       "example": "Atenção condutores: condicionamentos no IC2.",
@@ -12360,23 +12360,23 @@
       "pt": "o vendaval",
       "de": "der Sturmwind",
       "en": "the gale",
-      "example": "Ha alerta de vendaval para o fim de semana.",
-      "example_de": "Es gibt eine Sturmwindwarnung fuer das Wochenende.",
+      "example": "Há alerta de vendaval para o fim de semana.",
+      "example_de": "Es gibt eine Sturmwindwarnung für das Wochenende.",
       "example_en": "There is a gale warning for the weekend."
     },
     {
       "pt": "rugir",
-      "de": "bruellen",
+      "de": "brüllen",
       "en": "to roar",
-      "example": "Os motores vao rugir na Lousa.",
-      "example_de": "Die Motoren werden in Lousa bruellen.",
-      "example_en": "The engines will roar in Lousa."
+      "example": "Os motores vão rugir na Lousã.",
+      "example_de": "Die Motoren werden in Lousã brüllen.",
+      "example_en": "The engines will roar in Lousã."
     },
     {
       "pt": "a tortura",
       "de": "die Folter",
       "en": "torture",
-      "example": "Treze agentes sao suspeitos de tortura.",
+      "example": "Treze agentes são suspeitos de tortura.",
       "example_de": "Dreizehn Beamte sind des Foltervorwurfs verdachtig.",
       "example_en": "Thirteen officers are suspected of torture."
     },
@@ -12384,63 +12384,63 @@
       "pt": "despedir-se",
       "de": "sich verabschieden",
       "en": "to say goodbye",
-      "example": "O Rally despede-se do centro do pais hoje.",
+      "example": "O Rally despede-se do centro do país hoje.",
       "example_de": "Der Rally verabschiedet sich heute aus der Mitte des Landes.",
       "example_en": "The Rally bids farewell to the central region today."
     },
     {
       "pt": "induzido",
-      "de": "kuenstlich herbeigefuehrt",
+      "de": "künstlich herbeigeführt",
       "en": "induced",
-      "example": "Bonnie Tyler esta em coma induzido apos cirurgia.",
-      "example_de": "Bonnie Tyler liegt nach einer OP im kuenstlichen Koma.",
+      "example": "Bonnie Tyler está em coma induzido após cirurgia.",
+      "example_de": "Bonnie Tyler liegt nach einer OP im künstlichen Koma.",
       "example_en": "Bonnie Tyler is in an induced coma after surgery."
     },
     {
       "pt": "a falha",
       "de": "das Versagen",
       "en": "the failure",
-      "example": "O SNS esta a falhar mais de um milhao de portugueses.",
-      "example_de": "Der SNS versagt bei ueber einer Million Portugiesen.",
+      "example": "O SNS está a falhar mais de um milhão de portugueses.",
+      "example_de": "Der SNS versagt bei über einer Million Portugiesen.",
       "example_en": "The NHS is failing more than a million Portuguese people."
     },
     {
       "pt": "comparticipado",
       "de": "bezuschusst",
       "en": "subsidized / co-paid",
-      "example": "Os exames comparticipados pelo SNS sao inacessiveis sem medico.",
-      "example_de": "Die vom SNS bezuschussten Untersuchungen sind ohne Hausarzt unzugaenglich.",
+      "example": "Os exames comparticipados pelo SNS são inacessíveis sem médico.",
+      "example_de": "Die vom SNS bezuschussten Untersuchungen sind ohne Hausarzt unzugänglich.",
       "example_en": "Exams subsidized by the NHS are inaccessible without a doctor."
     },
     {
       "pt": "o esboro",
-      "de": "die Truemmer",
+      "de": "die Trümmer",
       "en": "the rubble / collapse",
       "example": "O esboro do muro bloqueou a estrada.",
-      "example_de": "Der Mauereinsturz blockierte die Strasse.",
+      "example_de": "Der Mauereinsturz blockierte die Straße.",
       "example_en": "The wall collapse blocked the road."
     },
     {
       "pt": "a especiais",
       "de": "die Sonderprüfung",
       "en": "the special stage (rally)",
-      "example": "As tres primeiras especiais foram disputadas na quinta-feira.",
-      "example_de": "Die ersten drei Sonderpruefungen wurden am Donnerstag ausgetragen.",
+      "example": "As três primeiras especiais foram disputadas na quinta-feira.",
+      "example_de": "Die ersten drei Sonderprüfungen wurden am Donnerstag ausgetragen.",
       "example_en": "The first three special stages were held on Thursday."
     },
     {
       "pt": "o retalho",
-      "de": "das Bruchstueck",
+      "de": "das Bruchstück",
       "en": "the fragment / scrap",
-      "example": "O retalho de informacao chegou a imprensa.",
-      "example_de": "Das Informationsbruchstueck erreichte die Presse.",
+      "example": "O retalho de informação chegou à imprensa.",
+      "example_de": "Das Informationsbruchstück erreichte die Presse.",
       "example_en": "The fragment of information reached the press."
     },
     {
       "pt": "o comandamento",
       "de": "das Kommando",
       "en": "the command",
-      "example": "O Comando Sub-Regional de Emergencia reuniu-se em Coimbra.",
+      "example": "O Comando Sub-Regional de Emergência reuniu-se em Coimbra.",
       "example_de": "Das Subregionale Einsatzkommando traf sich in Coimbra.",
       "example_en": "The Sub-Regional Emergency Command met in Coimbra."
     },
@@ -12448,15 +12448,15 @@
       "pt": "a prevision",
       "de": "die Vorhersage",
       "en": "the forecast",
-      "example": "A previsao meteorologica indica chuva para o fim de semana.",
-      "example_de": "Die Wettervorhersage zeigt Regen fuer das Wochenende.",
+      "example": "A previsão meteorológica indica chuva para o fim de semana.",
+      "example_de": "Die Wettervorhersage zeigt Regen für das Wochenende.",
       "example_en": "The weather forecast indicates rain for the weekend."
     },
     {
-      "pt": "a gravacao",
+      "pt": "a gravação",
       "de": "die Aufnahme",
       "en": "the recording",
-      "example": "A gravacao de video foi apresentada como prova.",
+      "example": "A gravação de vídeo foi apresentada como prova.",
       "example_de": "Die Videoaufnahme wurde als Beweis vorgelegt.",
       "example_en": "The video recording was presented as evidence."
     },
@@ -12465,23 +12465,23 @@
       "de": "die Karawane / der Konvoi",
       "en": "the convoy / caravan",
       "example": "A caravana mundialista segue para Arganil.",
-      "example_de": "Der WRC-Konvoi faehrt weiter nach Arganil.",
+      "example_de": "Der WRC-Konvoi fährt weiter nach Arganil.",
       "example_en": "The WRC convoy heads to Arganil."
     },
     {
-      "pt": "a atribuicao",
+      "pt": "a atribuição",
       "de": "die Zuweisung",
       "en": "the assignment / allocation",
-      "example": "A atribuicao de medico de familia e uma prioridade.",
-      "example_de": "Die Zuweisung eines Hausarztes ist eine Prioritaet.",
+      "example": "A atribuição de médico de família é uma prioridade.",
+      "example_de": "Die Zuweisung eines Hausarztes ist eine Priorität.",
       "example_en": "The assignment of a family doctor is a priority."
     },
     {
-      "pt": "a campanha solidaria",
-      "de": "die Solidaritaetskampagne",
+      "pt": "a campanha solidária",
+      "de": "die Solidaritätskampagne",
       "en": "the solidarity campaign",
-      "example": "A campanha solidaria quer equipar Bombeiros de Condeixa.",
-      "example_de": "Die Solidaritaetskampagne will die Feuerwehr von Condeixa ausruesten.",
+      "example": "A campanha solidária quer equipar Bombeiros de Condeixa.",
+      "example_de": "Die Solidaritätskampagne will die Feuerwehr von Condeixa ausrüsten.",
       "example_en": "The solidarity campaign wants to equip the Condeixa firefighters."
     },
     {
@@ -12489,15 +12489,15 @@
       "de": "die Kreuzung",
       "en": "the intersection",
       "example": "A intercecao esta interdita ao transito.",
-      "example_de": "Die Kreuzung ist fuer den Verkehr gesperrt.",
+      "example_de": "Die Kreuzung ist für den Verkehr gesperrt.",
       "example_en": "The intersection is closed to traffic."
     },
     {
-      "pt": "a regiao meridional",
-      "de": "die suedliche Region",
+      "pt": "a região meridional",
+      "de": "die südliche Region",
       "en": "the southern region",
-      "example": "O hantavirus foi identificado em provincias meridionais da Argentina.",
-      "example_de": "Das Hantavirus wurde in suedlichen Provinzen Argentiniens identifiziert.",
+      "example": "O hantavírus foi identificado em províncias meridionais da Argentina.",
+      "example_de": "Das Hantavirus wurde in südlichen Provinzen Argentiniens identifiziert.",
       "example_en": "The hantavirus was identified in southern provinces of Argentina."
     },
     {
@@ -12997,7 +12997,7 @@
       "example_en": "Eiras returns to the Middle Ages with fire spectacle and troubadours"
     },
     {
-      "pt": "a seguranca social",
+      "pt": "a segurança social",
       "de": "die Sozialversicherung",
       "en": "social security",
       "example": "Nova regra muda o acesso à segurança social a partir desta terça-feira",
@@ -13235,7 +13235,7 @@
       "en": "the root"
     },
     {
-      "pt": "o gremio",
+      "pt": "o grémio",
       "de": "die Gilde / der Verband",
       "en": "the guild / association"
     },
@@ -13632,7 +13632,7 @@
       "pt": "a maioria",
       "de": "die Mehrheit",
       "en": "majority",
-      "example": "Lider celebra maioria absoluta",
+      "example": "Líder celebra maioria absoluta",
       "example_de": "Führer feiert absolute Mehrheit",
       "example_en": "Leader celebrates absolute majority"
     },
@@ -14805,7 +14805,7 @@
     },
     {
       "pt": "postiço",
-      "de": "kuenstlich, unecht",
+      "de": "künstlich, unecht",
       "en": "fake, artificial"
     },
     {
@@ -14825,7 +14825,7 @@
     },
     {
       "pt": "o distúrbio",
-      "de": "die Stoerung",
+      "de": "die Störung",
       "en": "the disturbance"
     },
     {
@@ -15118,7 +15118,7 @@
       "pt": "o tremoço",
       "de": "die Lupine (Snack)",
       "en": "lupin bean",
-      "example": "Quilos de tremocos no festival",
+      "example": "Quilos de tremoços no festival",
       "example_de": "Kilos Lupinen beim Festival",
       "example_en": "Kilos of lupin beans at the festival"
     },
@@ -15744,7 +15744,7 @@
       "pt": "o cheiro",
       "de": "der Geruch",
       "en": "the smell",
-      "example": "O cheiro a Santos Populares ja chegou a Coimbra",
+      "example": "O cheiro a Santos Populares já chegou a Coimbra",
       "example_de": "Der Geruch nach Heiligenfesten ist schon in Coimbra",
       "example_en": "The smell of popular saints has arrived in Coimbra"
     },
@@ -15757,11 +15757,11 @@
       "example_en": "Learn the art of weaving in Aldeia das Dez"
     },
     {
-      "pt": "o chapeu-de-sol",
+      "pt": "o chapéu-de-sol",
       "de": "der Sonnenschirm",
       "en": "the sun umbrella",
-      "example": "Pode plantar o seu chapeu-de-sol em frente as concessoes",
-      "example_de": "Sie koennen Ihren Sonnenschirm vor den Konzessionen aufstellen",
+      "example": "Pode plantar o seu chapéu-de-sol em frente às concessões",
+      "example_de": "Sie können Ihren Sonnenschirm vor den Konzessionen aufstellen",
       "example_en": "You can set up your sun umbrella in front of beach concessions"
     },
     {
@@ -15774,7 +15774,7 @@
     },
     {
       "pt": "o abate",
-      "de": "die Faellung",
+      "de": "die Fällung",
       "en": "the felling/cutting",
       "example": "E-Redes julgada por abate ilegal de sobreiros",
       "example_de": "E-Redes wegen illegaler Faellung verurteilt",
@@ -15784,7 +15784,7 @@
       "pt": "o cadastro",
       "de": "das Kataster",
       "en": "the registry/cadastre",
-      "example": "Cadastro dos predios rusticos com 66% de execucao",
+      "example": "Cadastro dos prédios rústicos com 66% de execução",
       "example_de": "Kataster der Landgebaeude zu 66% ausgefuehrt",
       "example_en": "Rural property registry at 66% completion"
     },
@@ -15792,31 +15792,31 @@
       "pt": "reagendar",
       "de": "verschieben, umplanen",
       "en": "to reschedule",
-      "example": "A prova ModA foi reagendada devido a greve",
-      "example_de": "Die ModA-Pruefung wurde wegen des Streiks verschoben",
+      "example": "A prova ModA foi reagendada devido à greve",
+      "example_de": "Die ModA-Prüfung wurde wegen des Streiks verschoben",
       "example_en": "The ModA exam was rescheduled due to the strike"
     },
     {
       "pt": "comandar",
       "de": "befehligen, leiten",
       "en": "to command, to lead",
-      "example": "Antonio Barbosa comanda Academica para subir a primeira",
-      "example_de": "Antonio Barbosa leitet Academica zum Aufstieg",
-      "example_en": "Antonio Barbosa leads Academica to promotion"
+      "example": "António Barbosa comanda Académica para subir à primeira",
+      "example_de": "António Barbosa leitet Académica zum Aufstieg",
+      "example_en": "António Barbosa leads Académica to promotion"
     },
     {
       "pt": "alegre",
-      "de": "froehlich",
+      "de": "fröhlich",
       "en": "cheerful, happy",
       "example": "Os segredos do alegre ministro",
-      "example_de": "Die Geheimnisse des froehlichen Ministers",
+      "example_de": "Die Geheimnisse des fröhlichen Ministers",
       "example_en": "The secrets of the cheerful minister"
     },
     {
       "pt": "inovador",
       "de": "innovativ",
       "en": "innovative",
-      "example": "Este espaco inovador junta cultura e vinis",
+      "example": "Este espaço inovador junta cultura e vinis",
       "example_de": "Dieser innovative Raum verbindet Kultur und Vinyl",
       "example_en": "This innovative space combines culture and vinyl"
     },
@@ -15824,23 +15824,23 @@
       "pt": "particularmente",
       "de": "insbesondere, besonders",
       "en": "particularly",
-      "example": "Forcas de seguranca vivem tempos particularmente exigentes",
-      "example_de": "Sicherheitskraefte leben besonders anspruchsvolle Zeiten",
+      "example": "Forças de segurança vivem tempos particularmente exigentes",
+      "example_de": "Sicherheitskräfte leben besonders anspruchsvolle Zeiten",
       "example_en": "Security forces live particularly demanding times"
     },
     {
-      "pt": "sem travao",
+      "pt": "sem travão",
       "de": "ohne Bremse (Redewendung)",
       "en": "without brakes (expression)",
-      "example": "Miranda do Corvo vai parar com festa sem travao",
-      "example_de": "Miranda do Corvo haelt mit Fest ohne Bremse an",
+      "example": "Miranda do Corvo vai parar com festa sem travão",
+      "example_de": "Miranda do Corvo hält mit Fest ohne Bremse an",
       "example_en": "Miranda do Corvo stops for a party without brakes"
     },
     {
       "pt": "por toda a gente",
       "de": "von allen Leuten (Redewendung)",
       "en": "by everyone (expression)",
-      "example": "Prometem por toda a gente a cantar",
+      "example": "Prometem pôr toda a gente a cantar",
       "example_de": "Versprechen alle zum Singen zu bringen",
       "example_en": "They promise to get everyone singing"
     },
@@ -15849,15 +15849,15 @@
       "de": "das Sardinenessen",
       "en": "the sardine feast",
       "example": "Miranda do Corvo com sardinhada, baile e Marchas Populares",
-      "example_de": "Miranda do Corvo mit Sardinenessen, Tanz und Umzuegen",
+      "example_de": "Miranda do Corvo mit Sardinenessen, Tanz und Umzügen",
       "example_en": "Miranda do Corvo with sardine feast, dance and popular marches"
     },
     {
-      "pt": "o cranio",
-      "de": "der Schaedel",
+      "pt": "o crânio",
+      "de": "der Schädel",
       "en": "the skull/cranium",
-      "example": "Traumatismo cranioencefalico",
-      "example_de": "Schaedel-Hirn-Trauma",
+      "example": "Traumatismo cranioencefálico",
+      "example_de": "Schädel-Hirn-Trauma",
       "example_en": "Craniocerebral trauma"
     },
     {
@@ -15865,14 +15865,14 @@
       "de": "das Alter",
       "en": "old age",
       "example": "Equipamento permite sentir as dificuldades da velhice",
-      "example_de": "Ausruestung laesst die Schwierigkeiten des Alters fuehlen",
+      "example_de": "Ausrüstung lässt die Schwierigkeiten des Alters fühlen",
       "example_en": "Equipment lets you feel the difficulties of old age"
     },
     {
-      "pt": "a residencia",
+      "pt": "a residência",
       "de": "das Wohnheim",
       "en": "the residence hall",
-      "example": "A vida de Fernando Alexandre na residencia de Coimbra",
+      "example": "A vida de Fernando Alexandre na residência de Coimbra",
       "example_de": "Das Leben von Fernando Alexandre im Wohnheim von Coimbra",
       "example_en": "Fernando Alexandre's life at the Coimbra residence"
     },
@@ -15880,17 +15880,17 @@
       "pt": "o manifestante",
       "de": "der Demonstrant",
       "en": "the protester",
-      "example": "Confrontos entre manifestantes e policia",
-      "example_de": "Zusammenstoesse zwischen Demonstranten und Polizei",
+      "example": "Confrontos entre manifestantes e polícia",
+      "example_de": "Zusammenstöße zwischen Demonstranten und Polizei",
       "example_en": "Clashes between protesters and police"
     },
     {
       "pt": "depor",
       "de": "aussagen, absetzen",
       "en": "to testify, to depose",
-      "example": "Presidente da Ucrania chamado a depor no caso do Elevador da Gloria",
-      "example_de": "Ukrainepraesident im Fall des Gloria-Aufzugs zur Aussage geladen",
-      "example_en": "Ukraine president called to testify in Elevador da Gloria case"
+      "example": "Presidente da Ucrânia chamado a depor no caso do Elevador da Glória",
+      "example_de": "Ukrainepräsident im Fall des Gloria-Aufzugs zur Aussage geladen",
+      "example_en": "Ukraine president called to testify in Elevador da Glória case"
     },
     {
       "pt": "a pele",
@@ -16586,80 +16586,80 @@
       "pt": "o bombardeamento",
       "de": "der Bombenangriff",
       "en": "the bombing",
-      "example": "Irao anuncia bombardeamento de base dos EUA",
-      "example_de": "Iran kundigt Bombenangriff auf US-Basis an",
+      "example": "Irão anuncia bombardeamento de base dos EUA",
+      "example_de": "Iran kündigt Bombenangriff auf US-Basis an",
       "example_en": "Iran announces bombing of US base"
     },
     {
       "pt": "a embalagem",
       "de": "die Verpackung",
       "en": "the packaging, the container",
-      "example": "Devolvidas 10 milhoes de embalagens",
-      "example_de": "10 Millionen Verpackungen zuruckgegeben",
+      "example": "Devolvidas 10 milhões de embalagens",
+      "example_de": "10 Millionen Verpackungen zurückgegeben",
       "example_en": "10 million containers returned"
     },
     {
       "pt": "o adepto",
-      "de": "der Anhanger",
+      "de": "der Anhänger",
       "en": "the fan, the supporter",
       "example": "Um adepto morre antes do apito inicial",
-      "example_de": "Ein Anhanger stirbt vor dem Anpfiff",
+      "example_de": "Ein Anhänger stirbt vor dem Anpfiff",
       "example_en": "A fan dies before the starting whistle"
     },
     {
       "pt": "perigoso",
-      "de": "gefahrlich",
+      "de": "gefährlich",
       "en": "dangerous",
-      "example": "Concelhos de Coimbra em perigo maximo de incendio",
+      "example": "Concelhos de Coimbra em perigo máximo de incêndio",
       "example_de": "Landkreise von Coimbra in maximaler Brandgefahr",
       "example_en": "Coimbra municipalities in maximum fire danger"
     },
     {
-      "pt": "o travao",
+      "pt": "o travão",
       "de": "die Bremse",
       "en": "the brake (figurative)",
-      "example": "Pacto europeu e travao a imigracao ilegal",
-      "example_de": "Europaisches Abkommen als Bremse gegen illegale Einwanderung",
+      "example": "Pacto europeu é travão à imigração ilegal",
+      "example_de": "Europäisches Abkommen als Bremse gegen illegale Einwanderung",
       "example_en": "European pact as a brake on illegal immigration"
     },
     {
-      "pt": "o voluntario",
+      "pt": "o voluntário",
       "de": "der Freiwillige",
       "en": "the volunteer",
-      "example": "O banco do leite apoia criancas ha 15 anos",
-      "example_de": "Die Muttermilchbank unterstutzt Kinder seit 15 Jahren",
+      "example": "O banco do leite apoia crianças há 15 anos",
+      "example_de": "Die Muttermilchbank unterstützt Kinder seit 15 Jahren",
       "example_en": "The milk bank has supported children for 15 years"
     },
     {
       "pt": "a sustentabilidade",
       "de": "die Nachhaltigkeit",
       "en": "sustainability",
-      "example": "Alunos criaram um snack sustentavel",
-      "example_de": "Schuler haben einen nachhaltigen Snack kreiert",
+      "example": "Alunos criaram um snack sustentável",
+      "example_de": "Schüler haben einen nachhaltigen Snack kreiert",
       "example_en": "Students created a sustainable snack"
     },
     {
       "pt": "bater",
       "de": "schlagen, erreichen",
       "en": "to hit, to reach (a level)",
-      "example": "Termometros vao bater os 40 graus",
+      "example": "Termómetros vão bater os 40 graus",
       "example_de": "Thermometer werden 40 Grad erreichen",
       "example_en": "Thermometers will hit 40 degrees"
     },
     {
-      "pt": "a gravida",
+      "pt": "a grávida",
       "de": "die Schwangere",
       "en": "the pregnant woman",
-      "example": "O misterio da gravida da Murtosa",
-      "example_de": "Das Ratsel der Schwangeren von Murtosa",
+      "example": "O mistério da grávida da Murtosa",
+      "example_de": "Das Rätsel der Schwangeren von Murtosa",
       "example_en": "The mystery of the pregnant woman from Murtosa"
     },
     {
-      "pt": "o misterio",
-      "de": "das Ratsel",
+      "pt": "o mistério",
+      "de": "das Rätsel",
       "en": "the mystery",
-      "example": "O misterio da gravida da Murtosa",
-      "example_de": "Das Ratsel der Schwangeren von Murtosa",
+      "example": "O mistério da grávida da Murtosa",
+      "example_de": "Das Rätsel der Schwangeren von Murtosa",
       "example_en": "The mystery of the pregnant woman from Murtosa"
     },
     {
@@ -16675,15 +16675,15 @@
       "de": "das Messer",
       "en": "the knife",
       "example": "Sequestrada e torturada com faca",
-      "example_de": "Entfuhrt und mit dem Messer gefoltert",
+      "example_de": "Entführt und mit dem Messer gefoltert",
       "example_en": "Kidnapped and tortured with a knife"
     },
     {
       "pt": "adotar",
       "de": "adoptieren",
       "en": "to adopt",
-      "example": "Padeiro quer adotar irmaos abandonados",
-      "example_de": "Backer möchte verlassene Geschwister adoptieren",
+      "example": "Padeiro quer adotar irmãos abandonados",
+      "example_de": "Bäcker möchte verlassene Geschwister adoptieren",
       "example_en": "Baker wants to adopt abandoned siblings"
     },
     {
@@ -16698,15 +16698,15 @@
       "pt": "a chuva",
       "de": "der Regen",
       "en": "the rain",
-      "example": "Sete semanas sem tedio em Penela",
+      "example": "Sete semanas sem tédio em Penela",
       "example_de": "Sieben Wochen ohne Langeweile in Penela",
       "example_en": "Seven weeks without boredom in Penela"
     },
     {
-      "pt": "o figado",
+      "pt": "o fígado",
       "de": "die Leber",
       "en": "the liver",
-      "example": "Doenca hepatica - o figado gordo que nao deve ser ignorado",
+      "example": "Doença hepática - o fígado gordo que não deve ser ignorado",
       "example_de": "Lebererkrankung - die fettleber die nicht ignoriert werden darf",
       "example_en": "Liver disease - the fatty liver that shouldn't be ignored"
     },
@@ -16714,7 +16714,7 @@
       "pt": "a proposta",
       "de": "der Vorschlag",
       "en": "the proposal",
-      "example": "Assembleia da Republica debate proposta do Governo",
+      "example": "Assembleia da República debate proposta do Governo",
       "example_de": "Parlament debattiert Vorschlag der Regierung",
       "example_en": "Parliament debates government proposal"
     },
@@ -16723,7 +16723,7 @@
       "de": "der Pfiff",
       "en": "the whistle",
       "example": "Adepto morre antes do apito inicial",
-      "example_de": "Anhanger stirbt vor dem Anpfiff",
+      "example_de": "Anhänger stirbt vor dem Anpfiff",
       "example_en": "Fan dies before the starting whistle"
     }
   ],
@@ -16738,15 +16738,15 @@
     },
     {
       "pt": "revoltar",
-      "de": "emporen",
+      "de": "empören",
       "en": "to outrage/revolt",
-      "example": "Estradas fechadas revoltam empresarios",
-      "example_de": "Geschlossene Strassen emporen Unternehmer",
+      "example": "Estradas fechadas revoltam empresários",
+      "example_de": "Geschlossene Straßen empören Unternehmer",
       "example_en": "Closed roads outrage business owners"
     },
     {
       "pt": "sombrio",
-      "de": "duster",
+      "de": "düster",
       "en": "gloomy/somber",
       "example": "Passado sombrio do padrasto",
       "example_de": "Dusterer Vergangenheit des Stiefvaters",
@@ -16761,19 +16761,19 @@
       "example_en": "Acquit Fernando Valente of the death"
     },
     {
-      "pt": "a radiacao",
+      "pt": "a radiação",
       "de": "die Strahlung",
       "en": "radiation",
-      "example": "Radiacao UV atinge niveis perigosos",
-      "example_de": "UV-Strahlung erreicht gefahrliche Werte",
+      "example": "Radiação UV atinge níveis perigosos",
+      "example_de": "UV-Strahlung erreicht gefährliche Werte",
       "example_en": "UV radiation reaches dangerous levels"
     },
     {
       "pt": "a empregabilidade",
-      "de": "die Beschaftigungsfahigkeit",
+      "de": "die Beschäftigungsfähigkeit",
       "en": "employability",
       "example": "Cursos com elevada empregabilidade",
-      "example_de": "Kurse mit hoher Beschaftigungsfahigkeit",
+      "example_de": "Kurse mit hoher Beschäftigungsfähigkeit",
       "example_en": "Courses with high employability"
     },
     {
@@ -16781,7 +16781,7 @@
       "de": "die Wendung",
       "en": "comeback/turnaround",
       "example": "Coreia do Sul vence com reviravolta",
-      "example_de": "Sudkorea gewinnt mit einer Wendung",
+      "example_de": "Südkorea gewinnt mit einer Wendung",
       "example_en": "South Korea wins with a turnaround"
     },
     {
@@ -16789,30 +16789,30 @@
       "de": "der Herr",
       "en": "elderly man/gentleman",
       "example": "Ondas de calor: proteger os seniores",
-      "example_de": "Hitzewellen: Senioren schutzen",
+      "example_de": "Hitzewellen: Senioren schützen",
       "example_en": "Heat waves: protecting the elderly"
     },
     {
-      "pt": "a tentacao",
+      "pt": "a tentação",
       "de": "die Versuchung",
       "en": "temptation",
-      "example": "Todos os caminhos vao dar a estas tentacoes",
-      "example_de": "Alle Wege fuhren zu diesen Versuchungen",
+      "example": "Todos os caminhos vão dar a estas tentações",
+      "example_de": "Alle Wege führen zu diesen Versuchungen",
       "example_en": "All roads lead to these temptations"
     },
     {
       "pt": "a estrada",
-      "de": "die Strasse",
+      "de": "die Straße",
       "en": "road",
-      "example": "Estradas fechadas continuam sem solucao",
-      "example_de": "Geschlossene Strassen bleiben ohne Losung",
+      "example": "Estradas fechadas continuam sem solução",
+      "example_de": "Geschlossene Straßen bleiben ohne Lösung",
       "example_en": "Closed roads remain without a solution"
     },
     {
       "pt": "o farmaceutico",
       "de": "der Pharmazeut/die Pharma-",
       "en": "pharmaceutical",
-      "example": "Setor farmaceutico de luto",
+      "example": "Setor farmacêutico de luto",
       "example_de": "Pharmazesektor in Trauer",
       "example_en": "Pharmaceutical sector in mourning"
     }
@@ -17440,7 +17440,7 @@
       "example_en": "Taxes on windfall profits of energy companies"
     },
     {
-      "pt": "expôr",
+      "pt": "expor",
       "de": "ausstellen",
       "en": "to exhibit, to display",
       "example": "Um dos maiores fotógrafos expõe na Bairrada",
@@ -18059,23 +18059,23 @@
       "pt": "roubar",
       "de": "stehlen",
       "en": "to steal, to rob",
-      "example": "Enfermeira rouba utente com lepra internado ha 30 anos.",
+      "example": "Enfermeira rouba utente com lepra internado há 30 anos.",
       "example_de": "Krankenschwester bestiehlt einen seit 30 Jahren eingelieferten Patienten.",
       "example_en": "Nurse steals from a patient hospitalized for 30 years."
     },
     {
-      "pt": "vinico",
+      "pt": "vínico",
       "de": "weinig, zum Wein gehörend",
       "en": "wine-related, vinous",
-      "example": "Quinta das Lagrimas recebe experiencia vinica com 11 produtores.",
-      "example_de": "Quinta das Lagrimas bietet Weinerlebnis mit 11 Erzeugern.",
-      "example_en": "Quinta das Lagrimas hosts a wine experience with 11 producers."
+      "example": "Quinta das Lágrimas recebe experiência vínica com 11 produtores.",
+      "example_de": "Quinta das Lágrimas bietet Weinerlebnis mit 11 Erzeugern.",
+      "example_en": "Quinta das Lágrimas hosts a wine experience with 11 producers."
     },
     {
       "pt": "a comovente",
       "de": "herzergreifend, rührend",
       "en": "touching, moving",
-      "example": "Padre tem gesto comovente na cerimonia do ultimo adeus a Lara.",
+      "example": "Padre tem gesto comovente na cerimónia do último adeus a Lara.",
       "example_de": "Priester hat eine herzergriffene Geste bei der Abschiedszeremonie fur Lara.",
       "example_en": "Priest makes a touching gesture at the farewell ceremony for Lara."
     },
@@ -18083,7 +18083,7 @@
       "pt": "o adeus",
       "de": "der Abschied, Lebewohl",
       "en": "farewell, goodbye",
-      "example": "Ultimo adeus marcado por momentos de dor.",
+      "example": "Último adeus marcado por momentos de dor.",
       "example_de": "Letzter Abschied, geprägt von Momenten des Schmerzes.",
       "example_en": "Final farewell marked by moments of pain."
     },
@@ -18091,15 +18091,15 @@
       "pt": "o encontro",
       "de": "die Begegnung, das Treffen",
       "en": "meeting, gathering, encounter",
-      "example": "IV Encontro Senior reune cerca de 500 participantes em Coimbra.",
+      "example": "IV Encontro Sénior reúne cerca de 500 participantes em Coimbra.",
       "example_de": "Das 4. Seniorentreffen versammelt etwa 500 Teilnehmer in Coimbra.",
       "example_en": "4th Senior Gathering brings together about 500 participants in Coimbra."
     },
     {
-      "pt": "lendario",
+      "pt": "lendário",
       "de": "legendär",
       "en": "legendary",
-      "example": "Football Classics junta criadores lendarios e fas dos videojogos.",
+      "example": "Football Classics junta criadores lendários e fãs dos videojogos.",
       "example_de": "Football Classics bringt legendäre Entwickler und Videospielfans zusammen.",
       "example_en": "Football Classics brings together legendary creators and video game fans."
     },
@@ -18107,7 +18107,7 @@
       "pt": "o seguro",
       "de": "die Versicherung",
       "en": "insurance",
-      "example": "Homem condenado por fraude apos amputar o proprio pe para receber seguros.",
+      "example": "Homem condenado por fraude após amputar o próprio pé para receber seguros.",
       "example_de": "Mann wegen Betrugs verurteilt, nachdem er sich den Fuß amputierte, um Versicherungen zu kassieren.",
       "example_en": "Man convicted of fraud after amputating his own foot to collect insurance."
     },
@@ -18115,7 +18115,7 @@
       "pt": "o videojogo",
       "de": "das Videospiel",
       "en": "video game",
-      "example": "Football Classics junta criadores lendarios e fas dos videojogos.",
+      "example": "Football Classics junta criadores lendários e fãs dos videojogos.",
       "example_de": "Football Classics bringt legendäre Entwickler und Videospielfans zusammen.",
       "example_en": "Football Classics brings together legendary creators and video game fans."
     },
@@ -18123,7 +18123,7 @@
       "pt": "salgado",
       "de": "salzig",
       "en": "salty",
-      "example": "Portugal tem uma piscina gigante de agua salgada com vista para o Atlantico.",
+      "example": "Portugal tem uma piscina gigante de água salgada com vista para o Atlântico.",
       "example_de": "Portugal hat ein riesiges Salzwasserschwimmbad mit Blick auf den Atlantik.",
       "example_en": "Portugal has a giant saltwater pool with a view of the Atlantic."
     },
@@ -18139,23 +18139,23 @@
       "pt": "desmaiar",
       "de": "ohnmächtig werden, in Ohnmacht fallen",
       "en": "to faint, to pass out",
-      "example": "O pai da pequena Lara desmaia durante o ultimo adeus.",
+      "example": "O pai da pequena Lara desmaia durante o último adeus.",
       "example_de": "Der Vater der kleinen Lara wird während des letzten Abschieds ohnmächtig.",
       "example_en": "Little Lara's father faints during the final farewell."
     },
     {
-      "pt": "o proprio",
+      "pt": "o próprio",
       "de": "der eigene, selbst",
       "en": "one's own, oneself",
-      "example": "Homem amputa o proprio pe para receber seguros.",
+      "example": "Homem amputa o próprio pé para receber seguros.",
       "example_de": "Mann amputiert den eigenen Fuß, um Versicherungen zu kassieren.",
       "example_en": "Man amputates his own foot to collect insurance."
     },
     {
-      "pt": "a preparacao",
+      "pt": "a preparação",
       "de": "die Vorbereitung",
       "en": "preparation",
-      "example": "Coimbra acelera preparacao para a Manifesta 17.",
+      "example": "Coimbra acelera preparação para a Manifesta 17.",
       "example_de": "Coimbra beschleunigt die Vorbereitung auf die Manifesta 17.",
       "example_en": "Coimbra accelerates preparation for Manifesta 17."
     },
@@ -18163,9 +18163,9 @@
       "pt": "encontrado",
       "de": "gefunden",
       "en": "found",
-      "example": "Jose Patolas encontrado a metros de casa em Mira.",
-      "example_de": "Jose Patolas wurde nur wenige Meter von seinem Haus in Mira gefunden.",
-      "example_en": "Jose Patolas found meters from his home in Mira."
+      "example": "José Patolas encontrado a metros de casa em Mira.",
+      "example_de": "José Patolas wurde nur wenige Meter von seinem Haus in Mira gefunden.",
+      "example_en": "José Patolas found meters from his home in Mira."
     }
   ],
   "2026-06-23": [
@@ -18456,22 +18456,22 @@
       "de": "das Leiden",
       "en": "the suffering",
       "example": "Os gatinhos mostravam sinais de sofrimento.",
-      "example_de": "Die Katzchen zeigten Leidenszeichen.",
+      "example_de": "Die Kätzchen zeigten Leidenszeichen.",
       "example_en": "The kittens showed signs of suffering."
     },
     {
       "pt": "excecional",
-      "de": "aussergewoehnlich",
+      "de": "außergewöhnlich",
       "en": "exceptional",
-      "example": "O parlamento aprovou apoio excecional para os municipios.",
-      "example_de": "Das Parlament verabschiedete aussergewoehnliche Hilfe fuer die Gemeinden.",
+      "example": "O parlamento aprovou apoio excecional para os municípios.",
+      "example_de": "Das Parlament verabschiedete außergewöhnliche Hilfe für die Gemeinden.",
       "example_en": "The parliament approved exceptional support for the municipalities."
     },
     {
-      "pt": "a prestacao social unica",
+      "pt": "a prestação social única",
       "de": "die einheitliche Sozialleistung",
       "en": "the single social benefit",
-      "example": "A Prestacao Social Unica foi aprovada no parlamento.",
+      "example": "A Prestação Social Única foi aprovada no parlamento.",
       "example_de": "Die einheitliche Sozialleistung wurde im Parlament verabschiedet.",
       "example_en": "The Single Social Benefit was approved in parliament."
     },
@@ -18480,20 +18480,20 @@
       "de": "die Krankenstation",
       "en": "the hospital ward",
       "example": "Os concertos transformam corredores e enfermarias do IPO.",
-      "example_de": "Die Konzerte verwandeln Gaenge und Krankenstationen des IPO.",
+      "example_de": "Die Konzerte verwandeln Gänge und Krankenstationen des IPO.",
       "example_en": "The concerts transform corridors and wards at the IPO."
     },
     {
-      "pt": "o estagio",
+      "pt": "o estágio",
       "de": "das Praktikum",
       "en": "the internship",
       "example": "Os professores precisam concluir o estagio profissional.",
-      "example_de": "Die Lehrer muessen das Berufspraktikum abschliessen.",
+      "example_de": "Die Lehrer müssen das Berufspraktikum abschließen.",
       "example_en": "Teachers need to complete the professional internship."
     },
     {
-      "pt": "a prevencao",
-      "de": "die Praevention",
+      "pt": "a prevenção",
+      "de": "die Prävention",
       "en": "prevention",
       "example": "A ferramenta promete reforcir a prevencao de incendios.",
       "example_de": "Das Werkzeug verspricht die Brandpraevention zu staerken.",
@@ -18503,15 +18503,15 @@
       "pt": "o luso-descendente",
       "de": "der portugiesischstaemmige",
       "en": "the Portuguese descendant",
-      "example": "Seis portugueses e luso-descendentes mortos apos o sismo.",
+      "example": "Seis portugueses e luso-descendentes mortos após o sismo.",
       "example_de": "Sechs Portugiesen und portugiesischstaemmige nach dem Beben tot.",
       "example_en": "Six Portuguese and Portuguese-descendants dead after the earthquake."
     },
     {
-      "pt": "atribuivel",
-      "de": "zurueckfuehrbar, zuschreibbar",
+      "pt": "atribuível",
+      "de": "zurückführbar, zuschreibbar",
       "en": "attributable",
-      "example": "212 mortes atribuiveis ao calor em Espanha.",
+      "example": "212 mortes atribuíveis ao calor em Espanha.",
       "example_de": "212 der Hitze zuschreibbare Tote in Spanien.",
       "example_en": "212 deaths attributable to heat in Spain."
     },
@@ -20127,7 +20127,7 @@
       "pt": "a Bolsa",
       "de": "das Stipendium",
       "en": "the scholarship, grant",
-      "example": "Agraria de Coimbra volta a atribuir bolsas aos melhores candidatos",
+      "example": "Agrária de Coimbra volta a atribuir bolsas aos melhores candidatos",
       "example_de": "Agraria de Coimbra vergibt wieder Stipendien an die besten Bewerber",
       "example_en": "Agraria de Coimbra awards scholarships again to the best candidates"
     }
@@ -20402,7 +20402,7 @@
       "example_en": "Indicted for the practice of rape crimes"
     },
     {
-      "pt": "adocar",
+      "pt": "adoçar",
       "de": "süßen",
       "en": "to sweeten",
       "example": "DOPPO celebra 1 ano a adoçar o Bairro Norton de Matos",
@@ -20476,10 +20476,10 @@
   ],
   "2026-07-13": [
     {
-      "pt": "a lagrima",
+      "pt": "a lágrima",
       "de": "die Träne",
       "en": "the tear",
-      "example": "Houve lagrimas e fe durante a procissão",
+      "example": "Houve lágrimas e fé durante a procissão",
       "example_de": "Es gab Tränen und Glauben während der Prozession",
       "example_en": "There were tears and faith during the procession"
     },
@@ -20500,10 +20500,10 @@
       "example_en": "They transformed a forgotten estate into a dream house"
     },
     {
-      "pt": "a paragem cardiaca",
+      "pt": "a paragem cardíaca",
       "de": "der Herzstillstand",
       "en": "the cardiac arrest",
-      "example": "Homem morreu em paragem cardiaca",
+      "example": "Homem morreu em paragem cardíaca",
       "example_de": "Mann verstarb bei Herzstillstand",
       "example_en": "Man died in cardiac arrest"
     },
@@ -20527,7 +20527,7 @@
       "pt": "barrica-se",
       "de": "verschanzt sich",
       "en": "barricades himself",
-      "example": "Homem barrica-se com ex-companheira e bebe",
+      "example": "Homem barrica-se com ex-companheira e bebé",
       "example_de": "Mann verschanzt sich mit Ex-Partnerin und Baby",
       "example_en": "Man barricades himself with ex-partner and baby"
     },
@@ -20535,7 +20535,7 @@
       "pt": "destapam",
       "de": "decken auf",
       "en": "they uncover",
-      "example": "Criancas abandonadas ao sol destapam rede milionaria",
+      "example": "Crianças abandonadas ao sol destapam rede milionária",
       "example_de": "Vergelassene Kinder decken millionenschweres Netz auf",
       "example_en": "Abandoned children uncover million-dollar network"
     },
@@ -20543,15 +20543,15 @@
       "pt": "revolta-se",
       "de": "empört sich",
       "en": "is outraged",
-      "example": "Messi revolta-se com arbitro portugues",
+      "example": "Messi revolta-se com árbitro português",
       "example_de": "Messi empört sich über portugiesischen Schiedsrichter",
       "example_en": "Messi is outraged by Portuguese referee"
     },
     {
-      "pt": "o arbitro",
+      "pt": "o árbitro",
       "de": "der Schiedsrichter",
       "en": "the referee",
-      "example": "Messi revolta-se com arbitro portugues",
+      "example": "Messi revolta-se com árbitro português",
       "example_de": "Messi empört sich über portugiesischen Schiedsrichter",
       "example_en": "Messi is outraged by Portuguese referee"
     },
@@ -20559,15 +20559,15 @@
       "pt": "despede-se",
       "de": "verabschiedet sich",
       "en": "says goodbye",
-      "example": "Rui Tavares despede-se da lideranca do Livre",
+      "example": "Rui Tavares despede-se da liderança do Livre",
       "example_de": "Rui Tavares verabschiedet sich von der Führung",
       "example_en": "Rui Tavares says goodbye to Livre leadership"
     },
     {
-      "pt": "a fe",
+      "pt": "a fé",
       "de": "der Glaube",
       "en": "the faith",
-      "example": "Coimbra vive tarde de fe com a procissão",
+      "example": "Coimbra vive tarde de fé com a procissão",
       "example_de": "Coimbra erlebt einen Nachmittag des Glaubens",
       "example_en": "Coimbra lives an afternoon of faith"
     },
@@ -20580,10 +20580,10 @@
       "example_en": "Maria and Vera fulfill a promise"
     },
     {
-      "pt": "rocou",
+      "pt": "roçou",
       "de": "berührte",
       "en": "touched/rubbed",
-      "example": "Roçou as partes intimas em varias mulheres",
+      "example": "Roçou as partes íntimas em várias mulheres",
       "example_de": "Er berührte intime Teile bei mehreren Frauen",
       "example_en": "He rubbed intimate parts on several women"
     },
@@ -20591,7 +20591,7 @@
       "pt": "a queimadura",
       "de": "die Verbrennung",
       "en": "the burn",
-      "example": "Crianca sofreu queimaduras com botija de agua quente",
+      "example": "Criança sofreu queimaduras com botija de água quente",
       "example_de": "Kind erlitt Verbrennungen durch Heisswasserflasche",
       "example_en": "Child suffered burns from hot water bottle"
     },
@@ -20607,7 +20607,7 @@
       "pt": "o exame",
       "de": "die Prüfung",
       "en": "the exam",
-      "example": "Professores chamados para acelerar correcao dos exames",
+      "example": "Professores chamados para acelerar correção dos exames",
       "example_de": "Lehrer einberufen um Korrektur der Prüfungen zu beschleunigen",
       "example_en": "Teachers called to speed up exam grading"
     }
@@ -21220,7 +21220,7 @@
       "de": "Herdplatte, offenes Feuer",
       "en": "open fire/hearth",
       "example": "O tacho esquecido ao lume fez cinco feridos",
-      "example_de": "Der vergessene Topf auf dem offenen Feuer verursachte fuenf Verletzte",
+      "example_de": "Der vergessene Topf auf dem offenen Feuer verursachte fünf Verletzte",
       "example_en": "The forgotten pot on the open fire caused five injuries"
     },
     {
@@ -21232,10 +21232,10 @@
       "example_en": "The INEM nurse died in the accident"
     },
     {
-      "pt": "a junta de dilatacao",
+      "pt": "a junta de dilatação",
       "de": "Dehnungsfuge",
       "en": "expansion joint",
-      "example": "Trabalhos de conservacao das juntas de dilatacao",
+      "example": "Trabalhos de conservação das juntas de dilatação",
       "example_de": "Erhaltungsarbeiten an den Dehnungsfugen",
       "example_en": "Conservation work on the expansion joints"
     },
@@ -21251,15 +21251,15 @@
       "pt": "rendido",
       "de": "sich ergeben, begeistert",
       "en": "surrendered, won over",
-      "example": "Agata rendida aos gatoes da policia",
+      "example": "Agata rendida aos gatões da polícia",
       "example_de": "Agata begeistert von den Polizeikatern",
       "example_en": "Agata won over by the police cats"
     },
     {
       "pt": "o gatão",
-      "de": "Kater, grosser Kater",
+      "de": "Kater, großer Kater",
       "en": "big tomcat",
-      "example": "Os gatoes da policia na Praia da Rocha",
+      "example": "Os gatões da polícia na Praia da Rocha",
       "example_de": "Die Polizeikater am Praia da Rocha",
       "example_en": "The police tomcats at Praia da Rocha"
     },
@@ -21268,15 +21268,15 @@
       "de": "tropfen, triefen",
       "en": "to drip",
       "example": "O ar condicionado pinga para a rua",
-      "example_de": "Die Klimaanlage tropft auf die Strasse",
+      "example_de": "Die Klimaanlage tropft auf die Straße",
       "example_en": "The air conditioner drips onto the street"
     },
     {
       "pt": "a almôndega",
-      "de": "Fleischbaellchen",
+      "de": "Fleischbällchen",
       "en": "meatball",
-      "example": "A pequena IKEA de Coimbra vai ter almondegas?",
-      "example_de": "Wird das kleine IKEA in Coimbra Fleischbaellchen haben?",
+      "example": "A pequena IKEA de Coimbra vai ter almôndegas?",
+      "example_de": "Wird das kleine IKEA in Coimbra Fleischbällchen haben?",
       "example_en": "Will the small IKEA in Coimbra have meatballs?"
     },
     {
@@ -21284,14 +21284,14 @@
       "de": "vertauschen, tauschen",
       "en": "to swap, mix up",
       "example": "Alunos a receberem provas trocadas",
-      "example_de": "Schueler erhalten vertauschte Pruefungen",
+      "example_de": "Schüler erhalten vertauschte Prüfungen",
       "example_en": "Students receiving swapped exams"
     },
     {
       "pt": "o pulmão",
       "de": "Lunge",
       "en": "lung",
-      "example": "Transplantes cardiacos e pulmonares",
+      "example": "Transplantes cardíacos e pulmonares",
       "example_de": "Herz- und Lungentransplantationen",
       "example_en": "Cardiac and pulmonary transplants"
     },
@@ -21307,8 +21307,8 @@
       "pt": "o vinho",
       "de": "Wein",
       "en": "wine",
-      "example": "Festival de cinema, musica e vinho",
-      "example_de": "Festival fuer Film, Musik und Wein",
+      "example": "Festival de cinema, música e vinho",
+      "example_de": "Festival für Film, Musik und Wein",
       "example_en": "Festival of cinema, music and wine"
     },
     {
@@ -21323,13 +21323,13 @@
       "pt": "o aeroporto",
       "de": "Flughafen",
       "en": "airport",
-      "example": "FlixBus liga Serta aos aeroportos do Porto",
-      "example_de": "FlixBus verbindet Serta mit den Flughafen in Porto",
-      "example_en": "FlixBus connects Serta to the airports in Porto"
+      "example": "FlixBus liga Sertã aos aeroportos do Porto",
+      "example_de": "FlixBus verbindet Sertã mit den Flughäfen in Porto",
+      "example_en": "FlixBus connects Sertã to the airports in Porto"
     },
     {
       "pt": "a cantora",
-      "de": "Saengerin",
+      "de": "Sängerin",
       "en": "female singer",
       "example": "A cantora recorda o dia em que tudo poderia ter terminado",
       "example_de": "Die Saengerin erinnert sich an den Tag an dem alles haette enden koennen",
@@ -21347,7 +21347,7 @@
       "pt": "a escassez",
       "de": "Knappheit, Mangel",
       "en": "scarcity, shortage",
-      "example": "A escassez de orgaos representa um desafio",
+      "example": "A escassez de órgãos representa um desafio",
       "example_de": "Der Mangel an Organen stellt eine Herausforderung dar",
       "example_en": "The shortage of organs represents a challenge"
     },
@@ -21355,8 +21355,8 @@
       "pt": "a avaliação",
       "de": "Bewertung",
       "en": "evaluation",
-      "example": "Constrangimentos no processo de avaliacao",
-      "example_de": "Einschraenkungen im Bewertungsprozess",
+      "example": "Constrangimentos no processo de avaliação",
+      "example_de": "Einschränkungen im Bewertungsprozess",
       "example_en": "Constraints in the evaluation process"
     },
     {
@@ -21369,9 +21369,9 @@
     },
     {
       "pt": "a atualização",
-      "de": "Aktualisierung, Erhoehung",
+      "de": "Aktualisierung, Erhöhung",
       "en": "update, increase",
-      "example": "A atualizacao do valor da taxa turistica",
+      "example": "A atualização do valor da taxa turística",
       "example_de": "Die Aktualisierung des Werts der Touristensteuer",
       "example_en": "The update of the tourist tax value"
     },
@@ -21630,10 +21630,10 @@
       "example_en": "the advising against swimming at river beaches"
     },
     {
-      "pt": "unanime",
+      "pt": "unânime",
       "de": "einstimmig",
       "en": "unanimous",
-      "example": "a camara aprovou por unanimidade",
+      "example": "a câmara aprovou por unanimidade",
       "example_de": "die Stadtverwaltung stimmte einstimmig ab",
       "example_en": "the city council approved unanimously"
     },
@@ -21641,7 +21641,7 @@
       "pt": "contemplar",
       "de": "betrachten, innehalten",
       "en": "to contemplate",
-      "example": "um espaco de contemplacao e encontro",
+      "example": "um espaço de contemplação e encontro",
       "example_de": "ein Ort der Kontemplation und Begegnung",
       "example_en": "a space of contemplation and meeting"
     },
@@ -21649,7 +21649,7 @@
       "pt": "prolongado",
       "de": "langwierig, andauernd",
       "en": "prolonged, extended",
-      "example": "vitima de doenca prolongada",
+      "example": "vítima de doença prolongada",
       "example_de": "Opfer einer langwierigen Krankheit",
       "example_en": "victim of a prolonged illness"
     },
@@ -21658,14 +21658,14 @@
       "de": "die Strafe",
       "en": "the sentence, the penalty",
       "example": "quer cumprir o resto da pena em Portugal",
-      "example_de": "will den Rest der Strafe in Portugal verbuessen",
+      "example_de": "will den Rest der Strafe in Portugal verbüßen",
       "example_en": "wants to serve the rest of the sentence in Portugal"
     },
     {
-      "pt": "perpetuo",
-      "de": "lebenslaenglich",
+      "pt": "perpétuo",
+      "de": "lebenslänglich",
       "en": "perpetual, life",
-      "example": "condenado a prisao perpetua",
+      "example": "condenado a prisão perpétua",
       "example_de": "zu lebenslanger Haft verurteilt",
       "example_en": "sentenced to life imprisonment"
     },
@@ -21673,7 +21673,7 @@
       "pt": "desafetar",
       "de": "umwidmen, freistellen",
       "en": "to declassify, to reallocate",
-      "example": "pedidos de desafetacao das salas de cinema",
+      "example": "pedidos de desafetação das salas de cinema",
       "example_de": "Antraege auf Umwidmung der Kinosaale",
       "example_en": "requests for declassification of cinema rooms"
     },
@@ -21681,7 +21681,7 @@
       "pt": "impreterivelmente",
       "de": "unausweichlich, zwingend",
       "en": "unfailingly, mandatorily",
-      "example": "uma decisao impreterivelmente ate novembro",
+      "example": "uma decisão impreterivelmente até novembro",
       "example_de": "eine zwingend bis November zu treffende Entscheidung",
       "example_en": "a decision mandatorily by November"
     },
@@ -21689,7 +21689,7 @@
       "pt": "orçar",
       "de": "budgetieren, veranschlagen",
       "en": "to budget, to estimate",
-      "example": "uma empreitada orcada em tres milhoes de euros",
+      "example": "uma empreitada orçada em três milhões de euros",
       "example_de": "ein Bauauftrag mit einem Budget von drei Millionen Euro",
       "example_en": "a construction contract budgeted at three million euros"
     },
@@ -21697,8 +21697,8 @@
       "pt": "a renda",
       "de": "die Miete",
       "en": "the rent",
-      "example": "precos abusivos e loucos de rendas contestados",
-      "example_de": "missbraeuchliche und verrueckte Mieten kritisiert",
+      "example": "preços abusivos e loucos de rendas contestados",
+      "example_de": "missbräuchliche und verrückte Mieten kritisiert",
       "example_en": "abusive and crazy rents criticized"
     },
     {
@@ -21706,7 +21706,7 @@
       "de": "der Bewohner",
       "en": "the resident",
       "example": "o morador viu finalmente concretizado um sonho",
-      "example_de": "der Bewohner sah endlich einen Traum erfuellt",
+      "example_de": "der Bewohner sah endlich einen Traum erfüllt",
       "example_en": "the resident finally saw a dream come true"
     },
     {
@@ -21718,10 +21718,10 @@
       "example_en": "the resident finally saw a dream realized"
     },
     {
-      "pt": "neurotrofico",
+      "pt": "neurotrófico",
       "de": "neurotrophiisch",
       "en": "neurotrophic",
-      "example": "o fator neurotrofico derivado do cerebro",
+      "example": "o fator neurotrófico derivado do cérebro",
       "example_de": "der vom Gehirn abgeleitete neurotrophe Faktor",
       "example_en": "the brain-derived neurotrophic factor"
     },
@@ -23164,7 +23164,7 @@
       "de": "die Streife",
       "en": "the patrol",
       "example": "Foi detido durante um patrulhamento habitual de prevenção e combate à criminalidade.",
-      "example_de": "Er wurde während einer routinemässigen Streife zur Kriminalitätsprävention festgenommen.",
+      "example_de": "Er wurde während einer routinemäßigen Streife zur Kriminalitätsprävention festgenommen.",
       "example_en": "He was detained during a routine crime-prevention patrol."
     },
     {
@@ -23212,7 +23212,7 @@
       "de": "die Nachbewertung",
       "en": "the reassessment",
       "example": "Professores consideram praticamente impossível concluir reapreciações até sexta-feira.",
-      "example_de": "Lehrer halten es für praktisch unmöglich, Nachbewertungen bis Freitag abzuschliessen.",
+      "example_de": "Lehrer halten es für praktisch unmöglich, Nachbewertungen bis Freitag abzuschließen.",
       "example_en": "Teachers consider it practically impossible to complete reassessments by Friday."
     },
     {
@@ -23252,7 +23252,7 @@
       "de": "lila",
       "en": "purple",
       "example": "Quase ninguém sabe o que significa a bandeira roxa na praia.",
-      "example_de": "Fast niemand weiss, was die lila Flagge am Strand bedeutet.",
+      "example_de": "Fast niemand weiß, was die lila Flagge am Strand bedeutet.",
       "example_en": "Almost nobody knows what the purple flag at the beach means."
     },
     {
@@ -23593,23 +23593,23 @@
       "pt": "espalhar-se",
       "de": "sich ausbreiten",
       "en": "to spread",
-      "example": "Vai espalhar-se pelo pais",
-      "example_de": "Wird sich ueber das Land ausbreiten",
+      "example": "Vai espalhar-se pelo país",
+      "example_de": "Wird sich über das Land ausbreiten",
       "example_en": "It will spread across the country"
     },
     {
       "pt": "o palanque",
-      "de": "die Rednertribuene",
+      "de": "die Rednertribüne",
       "en": "the platform/podium",
       "example": "Do chinelo ao palanque",
-      "example_de": "Vom Hausschuh zur Rednertribuene",
+      "example_de": "Vom Hausschuh zur Rednertribüne",
       "example_en": "From slippers to the podium"
     },
     {
-      "pt": "o antidoto",
+      "pt": "o antídoto",
       "de": "das Gegengift",
       "en": "the antidote",
-      "example": "Mordido por cobra so recebe antidoto",
+      "example": "Mordido por cobra só recebe antídoto",
       "example_de": "Von Schlange gebissen erhaelt Gegengift",
       "example_en": "Bitten by snake receives antidote"
     },
@@ -23626,14 +23626,14 @@
       "de": "der Hausschuh/Flipflop",
       "en": "the slipper/flipflop",
       "example": "Do chinelo ao palanque",
-      "example_de": "Vom Hausschuh zur Rednertribuene",
+      "example_de": "Vom Hausschuh zur Rednertribüne",
       "example_en": "From slippers to the podium"
     },
     {
       "pt": "o barco",
       "de": "das Boot",
       "en": "the boat",
-      "example": "Castelo so pode ser visitado de barco",
+      "example": "Castelo só pode ser visitado de barco",
       "example_de": "Burg kann nur mit dem Boot besucht werden",
       "example_en": "Castle can only be visited by boat"
     },
@@ -23641,7 +23641,7 @@
       "pt": "o eclipse",
       "de": "die Sonnenfinsternis",
       "en": "the eclipse",
-      "example": "Oculos para observar o eclipse",
+      "example": "Óculos para observar o eclipse",
       "example_de": "Brillen zur Beobachtung der Sonnenfinsternis",
       "example_en": "Glasses to observe the eclipse"
     },
@@ -23665,20 +23665,20 @@
       "pt": "a casa de banho",
       "de": "das Badezimmer",
       "en": "the bathroom",
-      "example": "Participa em reuniao a partir da casa de banho",
+      "example": "Participa em reunião a partir da casa de banho",
       "example_de": "Nimmt an Sitzung vom Badezimmer aus teil",
       "example_en": "Participates in meeting from the bathroom"
     },
     {
-      "pt": "o sinal de transito",
+      "pt": "o sinal de trânsito",
       "de": "das Verkehrsschild",
       "en": "the traffic sign",
-      "example": "Sabe distinguir estes dois sinais de transito?",
+      "example": "Sabe distinguir estes dois sinais de trânsito?",
       "example_de": "Kannst du diese zwei Verkehrsschilder unterscheiden?",
       "example_en": "Can you distinguish these two traffic signs?"
     },
     {
-      "pt": "o curriculo",
+      "pt": "o currículo",
       "de": "der Lebenslauf",
       "en": "the curriculum/resume",
       "example": "Professores criticam valor da correcao dos exames",
@@ -24498,7 +24498,7 @@
       "example_en": "Cocaine traveled in a container transported by sea"
     },
     {
-      "pt": "a espreita",
+      "pt": "à espreita",
       "de": "die Lauer, am Lauern",
       "en": "lurking, on the prowl",
       "example": "Não perca esta oportunidade de saborear os pratos típicos",
@@ -24514,7 +24514,7 @@
       "example_en": "Festa das Latas and Imposition of Insignia 2026"
     },
     {
-      "pt": "a imposiçao",
+      "pt": "a imposição",
       "de": "die Verleihung, die Auferlegung",
       "en": "the imposition, the awarding",
       "example": "Festa das Latas e Imposição de Insígnias",
@@ -24851,7 +24851,7 @@
       "pt": "o estômago",
       "de": "der Magen",
       "en": "the stomach",
-      "example": "Bebe refrigerantes todos os dias? Pode estar a por o estômago em perigo.",
+      "example": "Bebe refrigerantes todos os dias? Pode estar a pôr o estômago em perigo.",
       "example_de": "Trinkst du jeden Tag Erfrischungsgetränke? Das kann deinen Magen gefährden.",
       "example_en": "Drink sodas every day? You may be putting your stomach in danger."
     },
@@ -25540,7 +25540,7 @@
       "example_en": "Confraria brings the flavors of Coimbra to the Wine Fair"
     },
     {
-      "pt": "o por-do-sol",
+      "pt": "o pôr-do-sol",
       "de": "der Sonnenuntergang",
       "en": "the sunset",
       "example": "Uma festa ao pôr-do-sol para os novos alunos",
@@ -26533,7 +26533,7 @@
       "pt": "desproteger",
       "de": "ungeschützt lassen",
       "en": "to leave unprotected",
-      "example": "Deixar municipios para tras e desproteger comunidades",
+      "example": "Deixar municípios para trás e desproteger comunidades",
       "example_de": "Gemeinden zuruckzulassen bedeutet Gemeinschaften ungeschutzt zu lassen",
       "example_en": "Leaving municipalities behind means leaving communities unprotected"
     },
@@ -26541,23 +26541,23 @@
       "pt": "a revolta",
       "de": "die Empörung",
       "en": "the outrage",
-      "example": "O treinador nao esconde a revolta apos a derrota",
-      "example_de": "Der Trainer verbirgt seine Emporung nach der Niederlage nicht",
+      "example": "O treinador não esconde a revolta após a derrota",
+      "example_de": "Der Trainer verbirgt seine Empörung nach der Niederlage nicht",
       "example_en": "The coach does not hide his outrage after the defeat"
     },
     {
       "pt": "fumegar",
       "de": "dampfen",
       "en": "to steam (hot)",
-      "example": "Se costuma beber cafe ainda a fumegar",
+      "example": "Se costuma beber café ainda a fumegar",
       "example_de": "Man trinkt oft noch dampfenden Kaffee",
       "example_en": "People often drink coffee while still steaming hot"
     },
     {
-      "pt": "o esofago",
+      "pt": "o esófago",
       "de": "die Speiseröhre",
       "en": "the esophagus",
-      "example": "Maior risco de cancro do esofago",
+      "example": "Maior risco de cancro do esófago",
       "example_de": "Höheres Risiko für Speiseröhrenkrebs",
       "example_en": "Higher risk of esophageal cancer"
     },
@@ -26565,7 +26565,7 @@
       "pt": "a balsa",
       "de": "der Kahn",
       "en": "the barge/tub",
-      "example": "As vitimas foram atingidas por uma balsa com uvas",
+      "example": "As vítimas foram atingidas por uma balsa com uvas",
       "example_de": "Die Opfer wurden von einem mit Trauben beladenen Kahn getroffen",
       "example_en": "The victims were hit by a tub loaded with grapes"
     },
@@ -26573,7 +26573,7 @@
       "pt": "a praxe",
       "de": "die studentische Initiation",
       "en": "the student hazing",
-      "example": "Atividades alternativas para estudantes que nao querem ser praxados",
+      "example": "Atividades alternativas para estudantes que não querem ser praxados",
       "example_de": "Alternative Aktivitaten fur Studenten die keine Initiation wollen",
       "example_en": "Alternative activities for students who dont want to be hazed"
     },
@@ -26582,7 +26582,7 @@
       "de": "das Behältnis",
       "en": "the container",
       "example": "O recipiente tombou atingindo as cinco mulheres",
-      "example_de": "Das Behaltnis kippte um und traf die funf Frauen",
+      "example_de": "Das Behältnis kippte um und traf die fünf Frauen",
       "example_en": "The container tipped over hitting the five women"
     },
     {
@@ -26594,10 +26594,10 @@
       "example_en": "The tub caused injuries to the women"
     },
     {
-      "pt": "a composicao",
+      "pt": "a composição",
       "de": "der Zugverband",
       "en": "the train composition",
-      "example": "A composicao fazia a ligacao ferroviaria entre Rouen e Caen",
+      "example": "A composição fazia a ligação ferroviária entre Rouen e Caen",
       "example_de": "Der Zugverband stellte die Eisenbahnverbindung zwischen Rouen und Caen her",
       "example_en": "The train composition ran between Rouen and Caen"
     },
@@ -26613,7 +26613,7 @@
       "pt": "tentado",
       "de": "versucht",
       "en": "attempted",
-      "example": "O suspeito e indiciado por homicidio na forma tentada",
+      "example": "O suspeito é indiciado por homicídio na forma tentada",
       "example_de": "Der Verdächtige ist wegen versuchten Mordes angeklagt",
       "example_en": "The suspect is charged with attempted homicide"
     },
@@ -26629,15 +26629,15 @@
       "pt": "alargamento",
       "de": "die Verbreiterung",
       "en": "the widening",
-      "example": "Vai realizar trabalhos de alargamento e construcao de obras de arte",
-      "example_de": "Es werden Arbeiten zur Verbreiterung und zum Bau von Kunstbauten durchgefuhrt",
+      "example": "Vai realizar trabalhos de alargamento e construção de obras de arte",
+      "example_de": "Es werden Arbeiten zur Verbreiterung und zum Bau von Kunstbauten durchgeführt",
       "example_en": "Widening and construction works will be carried out"
     },
     {
-      "pt": "temporario",
+      "pt": "temporário",
       "de": "vorübergehend",
       "en": "temporary",
-      "example": "Sera necessario proceder ao corte temporario da circulacao",
+      "example": "Será necessário proceder ao corte temporário da circulação",
       "example_de": "Es ist notig die Verkehrsfunhrung vorubergehend zu sperren",
       "example_en": "A temporary traffic closure will be necessary"
     },
@@ -26645,15 +26645,15 @@
       "pt": "revelar",
       "de": "offenbaren",
       "en": "to reveal",
-      "example": "O barometro revela evolucoes muito distintas entre regioes",
+      "example": "O barómetro revela evoluções muito distintas entre regiões",
       "example_de": "Das Barometer offenbart sehr unterschiedliche Entwicklungen zwischen Regionen",
       "example_en": "The barometer reveals very distinct trends between regions"
     },
     {
-      "pt": "a decada",
+      "pt": "a década",
       "de": "das Jahrzehnt",
       "en": "the decade",
-      "example": "O templo assinalou uma decada de funcionamento",
+      "example": "O templo assinalou uma década de funcionamento",
       "example_de": "Der Tempel markierte ein Jahrzehnt des Betriebs",
       "example_en": "The temple marked a decade of operation"
     },
@@ -26661,8 +26661,8 @@
       "pt": "o alcatroamento",
       "de": "die Asphaltierung",
       "en": "the paving/asphalting",
-      "example": "Houve a inauguracao do alcatroamento da estrada de ligacao",
-      "example_de": "Es gab die Einweihung der Asphaltierung der Verbindungsstrasse",
+      "example": "Houve a inauguração do alcatroamento da estrada de ligação",
+      "example_de": "Es gab die Einweihung der Asphaltierung der Verbindungsstraße",
       "example_en": "There was the inauguration of the paving of the access road"
     },
     {
@@ -26670,15 +26670,15 @@
       "de": "verdoppeln",
       "en": "to triple",
       "example": "Bebidas muito quentes podem triplicar o risco de cancro",
-      "example_de": "Sehr heisse Getranke können das Krebsrisiko verdreifachen",
+      "example_de": "Sehr heiße Getränke können das Krebsrisiko verdreifachen",
       "example_en": "Very hot drinks can triple the risk of cancer"
     },
     {
-      "pt": "contemporaneo",
+      "pt": "contemporâneo",
       "de": "zeitgenössisch",
       "en": "contemporary",
-      "example": "Aurea aproxima-se de uma sonoridade soul pop contemporanea",
-      "example_de": "Aurea nahert sich einem zeitgenossischen Soul-Pop-Klang",
+      "example": "Aurea aproxima-se de uma sonoridade soul pop contemporânea",
+      "example_de": "Aurea nähert sich einem zeitgenössischen Soul-Pop-Klang",
       "example_en": "Aurea approaches a contemporary soul pop sound"
     }
   ],
@@ -26783,7 +26783,7 @@
       "pt": "difícil de controlar",
       "de": "schwer zu kontrollieren",
       "en": "hard to control",
-      "example": "A docaria provoca desejos difíceis de controlar.",
+      "example": "A doçaria provoca desejos difíceis de controlar.",
       "example_de": "Die Süßwaren wecken schwer zu kontrollierende Gelüste.",
       "example_en": "The pastries provoke hard-to-control cravings."
     },
@@ -27912,7 +27912,7 @@
       "pt": "o veranico",
       "de": "Altweibersommer",
       "en": "Indian summer (warm spell in late September)",
-      "example": "O veranico de Sao Miguel esta a caminho.",
+      "example": "O veranico de São Miguel está a caminho.",
       "example_de": "Der Altweibersommer ist auf dem Weg.",
       "example_en": "The Indian summer is on its way."
     },
@@ -27920,24 +27920,24 @@
       "pt": "chorar",
       "de": "weinen",
       "en": "to cry, mourn",
-      "example": "A familia chora a morte do ciclista.",
+      "example": "A família chora a morte do ciclista.",
       "example_de": "Die Familie weint um den Tod des Radfahrers.",
       "example_en": "The family mourns the death of the cyclist."
     },
     {
-      "pt": "a infestacao",
+      "pt": "a infestação",
       "de": "der Befall",
       "en": "infestation, plague",
-      "example": "Uma infestacao de moscas obrigou ao encerramento.",
-      "example_de": "Ein Befall von Fliegen zwang zur Schliessung.",
+      "example": "Uma infestação de moscas obrigou ao encerramento.",
+      "example_de": "Ein Befall von Fliegen zwang zur Schließung.",
       "example_en": "A fly infestation forced the closure."
     },
     {
-      "pt": "o trofeu",
-      "de": "die Trophaee",
+      "pt": "o troféu",
+      "de": "die Trophäe",
       "en": "trophy",
-      "example": "Portugal, atual detentor do trofeu, iniciou a edicao 2026/27.",
-      "example_de": "Portugal, aktueller Trophaeentraeger, startete in die Saison 2026/27.",
+      "example": "Portugal, atual detentor do troféu, iniciou a edição 2026/27.",
+      "example_de": "Portugal, aktueller Trophäenträger, startete in die Saison 2026/27.",
       "example_en": "Portugal, current trophy holder, started the 2026/27 edition."
     },
     {
@@ -27950,41 +27950,41 @@
     },
     {
       "pt": "barrar",
-      "de": "ausschliessen, sperren",
+      "de": "ausschließen, sperren",
       "en": "to bar, block, ban",
       "example": "Casa Branca barra emissoras CNN.",
-      "example_de": "Das Weisse Haus sperrt CNN-Sender aus.",
+      "example_de": "Das Weiße Haus sperrt CNN-Sender aus.",
       "example_en": "White House bars CNN broadcasters."
     },
     {
       "pt": "sacudir",
-      "de": "erschuettern",
+      "de": "erschüttern",
       "en": "to shake, rock",
       "example": "Sismo sacode Turquia.",
-      "example_de": "Erdbeben erschuettert die Tuerkei.",
+      "example_de": "Erdbeben erschüttert die Türkei.",
       "example_en": "Earthquake shakes Turkey."
     },
     {
-      "pt": "o baloico",
+      "pt": "o baloiço",
       "de": "die Schaukel",
       "en": "swing (playground)",
-      "example": "Ha um novo baloico em Miranda do Corvo.",
+      "example": "Há um novo baloiço em Miranda do Corvo.",
       "example_de": "Es gibt eine neue Schaukel in Miranda do Corvo.",
       "example_en": "There is a new swing in Miranda do Corvo."
     },
     {
-      "pt": "perder o folego",
+      "pt": "perder o fôlego",
       "de": "den Atem verlieren",
       "en": "to lose ones breath (be breathtaking)",
-      "example": "A vista e de perder o folego.",
-      "example_de": "Die Aussicht laesst einem den Atem wegbleiben.",
+      "example": "A vista é de perder o fôlego.",
+      "example_de": "Die Aussicht lässt einem den Atem wegbleiben.",
       "example_en": "The view is breathtaking."
     },
     {
       "pt": "a marcha lenta",
       "de": "der Schleppkonvoi",
       "en": "slow march (protest convoy)",
-      "example": "Uma marcha lenta organizada por empresarios.",
+      "example": "Uma marcha lenta organizada por empresários.",
       "example_de": "Ein Schleppkonvoi organisiert von Unternehmern.",
       "example_en": "A slow march organized by business owners."
     },
@@ -27993,16 +27993,16 @@
       "de": "der Nationaltrainer",
       "en": "national team coach/selector",
       "example": "A estreia do selecionador Jorge Jesus.",
-      "example_de": "Das Debuet von Nationaltrainer Jorge Jesus.",
+      "example_de": "Das Debüt von Nationaltrainer Jorge Jesus.",
       "example_en": "The debut of national coach Jorge Jesus."
     },
     {
       "pt": "o golo",
       "de": "das Tor",
       "en": "goal (sports)",
-      "example": "O golo de Joao Felix colocou Portugal em vantagem.",
-      "example_de": "Das Tor von Joao Felix brachte Portugal in Fuehrung.",
-      "example_en": "Joao Felix's goal put Portugal in the lead."
+      "example": "O golo de João Félix colocou Portugal em vantagem.",
+      "example_de": "Das Tor von João Félix brachte Portugal in Führung.",
+      "example_en": "João Félix's goal put Portugal in the lead."
     },
     {
       "pt": "a emissora",
@@ -28013,10 +28013,10 @@
       "example_en": "White House bars CNN and MS NOW broadcasters."
     },
     {
-      "pt": "a instalacao",
+      "pt": "a instalação",
       "de": "die Installation",
       "en": "installation (art), setup",
-      "example": "20 instalacoes ocupam a cidade em outubro.",
+      "example": "20 instalações ocupam a cidade em outubro.",
       "example_de": "20 Installationen besetzen im Oktober die Stadt.",
       "example_en": "20 installations occupy the city in October."
     },
@@ -28033,14 +28033,14 @@
       "de": "die Absage",
       "en": "cancellation",
       "example": "O cancelamento das aulas surpreendeu os alunos.",
-      "example_de": "Die Absage des Unterrichts ueberraschte die Schueler.",
+      "example_de": "Die Absage des Unterrichts überraschte die Schüler.",
       "example_en": "The cancellation of classes surprised the students."
     },
     {
-      "pt": "o empresario",
+      "pt": "o empresário",
       "de": "der Unternehmer",
       "en": "business owner, entrepreneur",
-      "example": "Uma marcha lenta organizada por empresarios.",
+      "example": "Uma marcha lenta organizada por empresários.",
       "example_de": "Ein Schleppkonvoi organisiert von Unternehmern.",
       "example_en": "A slow march organized by business owners."
     },
@@ -28048,16 +28048,16 @@
       "pt": "a terraplanagem",
       "de": "die Erdarbeit",
       "en": "earthworks, land clearing",
-      "example": "Empresarios de terraplanagens podem juntar mais de 400 camioes.",
-      "example_de": "Erdarbeits-Unternehmer koennen mehr als 400 LKWs versammeln.",
+      "example": "Empresários de terraplanagens podem juntar mais de 400 camiões.",
+      "example_de": "Erdarbeits-Unternehmer können mehr als 400 LKWs versammeln.",
       "example_en": "Earthworks business owners can gather over 400 trucks."
     },
     {
       "pt": "fazer a vida negra",
-      "de": "das Leben zur Hoelle machen",
+      "de": "das Leben zur Hölle machen",
       "en": "to make someone's life a misery",
       "example": "O vizinho lhes fazia a vida negra ha 30 anos.",
-      "example_de": "Der Nachbar machte ihnen seit 30 Jahren das Leben zur Hoelle.",
+      "example_de": "Der Nachbar machte ihnen seit 30 Jahren das Leben zur Hölle.",
       "example_en": "The neighbor had been making their life a misery for 30 years."
     },
     {
@@ -28065,14 +28065,14 @@
       "de": "die gewohnte Reise",
       "en": "the usual/traditional trip",
       "example": "O casal costumava fazer a habitual viagem em agosto.",
-      "example_de": "Das Paar machte gewoehnlich die gewohnte Reise im August.",
+      "example_de": "Das Paar machte gewöhnlich die gewohnte Reise im August.",
       "example_en": "The couple would usually take their traditional trip in August."
     },
     {
-      "pt": "o internato medico",
+      "pt": "o internato médico",
       "de": "die medizinische Facharztausbildung",
       "en": "medical internship/residency",
-      "example": "Ordem pede adiamento de novo modelo do internato medico.",
+      "example": "Ordem pede adiamento de novo modelo do internato médico.",
       "example_de": "Die AErztekammer fordert Aufschub des neuen Modells der Facharztausbildung.",
       "example_en": "Medical Association requests postponement of new medical internship model."
     },
@@ -28080,8 +28080,8 @@
       "pt": "o detentor",
       "de": "der Inhaber",
       "en": "holder (of title/trophy)",
-      "example": "Portugal, atual detentor do trofeu, iniciou a edicao 2026/27.",
-      "example_de": "Portugal, aktueller Inhaber der Trophaee, startete in die Saison 2026/27.",
+      "example": "Portugal, atual detentor do troféu, iniciou a edição 2026/27.",
+      "example_de": "Portugal, aktueller Inhaber der Trophäe, startete in die Saison 2026/27.",
       "example_en": "Portugal, current holder of the trophy, started the 2026/27 edition."
     }
   ],
@@ -28364,7 +28364,7 @@
       "pt": "o lanche",
       "de": "der Nachmittagssnack",
       "en": "the snack/afternoon tea",
-      "example": "Adeus aos lanches cheios de acucar",
+      "example": "Adeus aos lanches cheios de açúcar",
       "example_de": "Schluss mit den zuckerreichen Snacks",
       "example_en": "Goodbye to sugar-filled snacks"
     },
@@ -28380,7 +28380,7 @@
       "pt": "o rim",
       "de": "die Niere",
       "en": "the kidney",
-      "example": "Recebeu rim da mae ha 57 anos",
+      "example": "Recebeu rim da mãe há 57 anos",
       "example_de": "Bekam vor 57 Jahren Niere der Mutter",
       "example_en": "Received kidney from mother 57 years ago"
     },
@@ -28405,7 +28405,7 @@
       "de": "erschrecken",
       "en": "to frighten/scare",
       "example": "Incêndios em série assustam moradores",
-      "example_de": "Serienbrande erschrecken Bewohner",
+      "example_de": "Serienbrände erschrecken Bewohner",
       "example_en": "Serial fires scare residents"
     },
     {
@@ -28420,7 +28420,7 @@
       "pt": "falecido",
       "de": "verstorben",
       "en": "deceased",
-      "example": "A mae falecida no capacete",
+      "example": "A mãe falecida no capacete",
       "example_de": "Die verstorbene Mutter auf dem Helm",
       "example_en": "The deceased mother on the helmet"
     },
@@ -28428,24 +28428,24 @@
       "pt": "o degrau",
       "de": "die Stufe",
       "en": "the step",
-      "example": "Subiu 566 degraus com o filho as costas",
-      "example_de": "Stieg 566 Stufen mit dem Sohn auf dem Ruecken",
+      "example": "Subiu 566 degraus com o filho às costas",
+      "example_de": "Stieg 566 Stufen mit dem Sohn auf dem Rücken",
       "example_en": "Climbed 566 steps with his son on his back"
     },
     {
       "pt": "redutor",
       "de": "reduzierend",
       "en": "reductive",
-      "example": "Desacreditar rotulos redutores",
-      "example_de": "Reduzierende Etiketten entkraeften",
+      "example": "Desacreditar rótulos redutores",
+      "example_de": "Reduzierende Etiketten entkräften",
       "example_en": "Discredit reductive labels"
     },
     {
       "pt": "o abono",
       "de": "das Kindergeld",
       "en": "the child benefit/allowance",
-      "example": "Solicitou apoio para o abono de familia",
-      "example_de": "Beantragte Hilfe fuer das Kindergeld",
+      "example": "Solicitou apoio para o abono de família",
+      "example_de": "Beantragte Hilfe für das Kindergeld",
       "example_en": "Requested support for child benefit"
     },
     {
@@ -28453,7 +28453,7 @@
       "de": "die Beweglichkeit",
       "en": "agility",
       "example": "Defende mais agilidade nas decisões do Estado",
-      "example_de": "Setzt sich fuer mehr Beweglichkeit in Staatsentscheidungen ein",
+      "example_de": "Setzt sich für mehr Beweglichkeit in Staatsentscheidungen ein",
       "example_en": "Advocates more agility in State decisions"
     },
     {
@@ -28468,8 +28468,8 @@
       "pt": "o gulosos",
       "de": "die Naschkatze",
       "en": "the sweet tooth/glutton",
-      "example": "Um paraiso para gulosos",
-      "example_de": "Ein Paradies fuer Naschkatzen",
+      "example": "Um paraíso para gulosos",
+      "example_de": "Ein Paradies für Naschkatzen",
       "example_en": "A paradise for sweet tooths"
     },
     {
@@ -28477,7 +28477,7 @@
       "de": "die Beschuldigung",
       "en": "the imputation/charge",
       "example": "Rejeita crimes imputados",
-      "example_de": "Weist zur Last gelegte Verbrechen zurueck",
+      "example_de": "Weist zur Last gelegte Verbrechen zurück",
       "example_en": "Rejects imputed crimes"
     },
     {
@@ -28493,7 +28493,7 @@
       "de": "das Schicksal",
       "en": "destiny/fate",
       "example": "Agentes plenos dos seus destinos",
-      "example_de": "Voellige Agenten ihres Schicksals",
+      "example_de": "Völlige Agenten ihres Schicksals",
       "example_en": "Full agents of their destinies"
     }
   ],
@@ -29241,7 +29241,7 @@
       "example_en": "Meetings aimed at fostering reflection and debate"
     },
     {
-      "pt": "a oraçao",
+      "pt": "a oração",
       "de": "die Ansprache",
       "en": "the prayer/oration",
       "example": "A tradicional Oração de Sapiência",
@@ -29863,7 +29863,7 @@
   ],
   "2026-10-14": [
     {
-      "pt": "a benção",
+      "pt": "a bênção",
       "de": "der Segen"
     },
     {
@@ -30192,66 +30192,66 @@
     },
     {
       "pt": "a leguminosa",
-      "de": "Huelsenfrucht",
+      "de": "Hülsenfrucht",
       "en": "legume, pulse",
-      "example": "Reforco da presenca de vegetais e leguminosas",
-      "example_de": "Staerkung der Praesenz von Gemuese und Huelsenfruechten",
+      "example": "Reforço da presença de vegetais e leguminosas",
+      "example_de": "Stärkung der Präsenz von Gemüse und Hülsenfrüchten",
       "example_en": "More vegetables and legumes"
     },
     {
       "pt": "desmobilizar",
-      "de": "demobilisieren, abruecken",
+      "de": "demobilisieren, abrücken",
       "en": "to demobilize, to stand down",
-      "example": "Apelo da policia para desmobilizacao",
+      "example": "Apelo da polícia para desmobilização",
       "example_de": "Appell der Polizei zur Demobilisierung",
       "example_en": "Police appeal to stand down"
     },
     {
-      "pt": "a desobediencia",
+      "pt": "a desobediência",
       "de": "Ungehorsam",
       "en": "disobedience",
-      "example": "Estavam a incorrer num crime de desobediencia",
+      "example": "Estavam a incorrer num crime de desobediência",
       "example_de": "Sie begingen ein Vergehen des Ungehorsams",
       "example_en": "They were committing a crime of disobedience"
     },
     {
-      "pt": "o bagaco",
+      "pt": "o bagaço",
       "de": "Trester, Traubentrester",
       "en": "pomace, grape marc",
-      "example": "Camiao que transportava bagaco incendeia-se",
+      "example": "Camião que transportava bagaço incendeia-se",
       "example_de": "Lastwagen mit Tresterladung brennt",
       "example_en": "Truck carrying grape marc catches fire"
     },
     {
       "pt": "incendeiar-se",
-      "de": "sich entzuenden, in Brand geraten",
+      "de": "sich entzünden, in Brand geraten",
       "en": "to catch fire, to go up in flames",
-      "example": "O camiao incendeia-se e corta a estrada",
-      "example_de": "Der Lastwagen geraet in Brand und blockiert die Strasse",
+      "example": "O camião incendeia-se e corta a estrada",
+      "example_de": "Der Lastwagen gerät in Brand und blockiert die Straße",
       "example_en": "The truck catches fire and blocks the road"
     },
     {
-      "pt": "o ataque informatico",
+      "pt": "o ataque informático",
       "de": "Cyberangriff",
       "en": "cyberattack",
-      "example": "A Camara de Ovar foi alvo de um ataque informatico",
+      "example": "A Câmara de Ovar foi alvo de um ataque informático",
       "example_de": "Die Stadtverwaltung von Ovar war Ziel eines Cyberangriffs",
       "example_en": "Ovar City Council was hit by a cyberattack"
     },
     {
       "pt": "inoperacional",
-      "de": "nicht betriebsfaehig, lahmgelegt",
+      "de": "nicht betriebsfähig, lahmgelegt",
       "en": "inoperative, non-operational",
-      "example": "O sistema esta inoperacional",
+      "example": "O sistema está inoperacional",
       "example_de": "Das System ist lahmgelegt",
       "example_en": "The system is inoperative"
     },
     {
       "pt": "a Briosa",
-      "de": "die Briosa (Spitzname der Academica)",
+      "de": "die Briosa (Spitzname der Académica)",
       "en": "the Briosa (Académica's nickname)",
       "example": "Adeptos fazem 253 km pela Briosa",
-      "example_de": "Fans legen 253 km fuer die Briosa zurueck",
+      "example_de": "Fans legen 253 km für die Briosa zurück",
       "example_en": "Fans travel 253 km for the Briosa"
     }
   ],
@@ -30988,23 +30988,23 @@
       "pt": "a peregrina",
       "de": "die Pilgerin",
       "en": "the female pilgrim",
-      "example": "A vitima era uma peregrina do Caminho de Santiago.",
+      "example": "A vítima era uma peregrina do Caminho de Santiago.",
       "example_de": "Das Opfer war eine Pilgerin auf dem Jakobsweg.",
       "example_en": "The victim was a female pilgrim on the Camino de Santiago."
     },
     {
-      "pt": "o feirao",
+      "pt": "o feirão",
       "de": "der große Markt",
       "en": "the big fair/marketplace",
-      "example": "O feirao na Lousa ja tem compradores a levar carros para casa.",
+      "example": "O feirão na Lousã já tem compradores a levar carros para casa.",
       "example_de": "Der große Markt in Lousã hat schon Käufer, die Autos mit nach Hause nehmen.",
       "example_en": "The big fair in Lousã already has buyers taking cars home."
     },
     {
-      "pt": "a maldicao",
+      "pt": "a maldição",
       "de": "der Fluch",
       "en": "the curse",
-      "example": "E a maldicao de Natal a moda de Mirandela.",
+      "example": "É a maldição de Natal à moda de Mirandela.",
       "example_de": "Es ist der Weihnachtsfluch nach Mirandela-Art.",
       "example_en": "It's the Christmas curse Mirandela-style."
     },
@@ -31012,7 +31012,7 @@
       "pt": "o esqueleto",
       "de": "das Skelett",
       "en": "the skeleton",
-      "example": "A Serta prepara esqueletos curiosos para o Halloween.",
+      "example": "A Sertã prepara esqueletos curiosos para o Halloween.",
       "example_de": "Die Sertã bereitet neugierige Skelette für Halloween vor.",
       "example_en": "Sertã prepares curious skeletons for Halloween."
     },
@@ -31020,7 +31020,7 @@
       "pt": "o convento",
       "de": "das Kloster",
       "en": "the convent",
-      "example": "Os sabores que nasceram nos conventos vao adocar Alcobaça.",
+      "example": "Os sabores que nasceram nos conventos vão adoçar Alcobaça.",
       "example_de": "Die Süßigkeiten, die in Klöstern entstanden, werden Alcobaça versüßen.",
       "example_en": "The flavors born in convents will sweeten Alcobaça."
     },
@@ -31028,7 +31028,7 @@
       "pt": "a filhose",
       "de": "der fritierte Teigfladen",
       "en": "the filhós (fried pastry)",
-      "example": "Ha uma festa com bola de carne, filhoses e sopa de castanha.",
+      "example": "Há uma festa com bola de carne, filhoses e sopa de castanha.",
       "example_de": "Es gibt ein Fest mit Fleischbrot, fritierten Teigfladen und Kastaniensuppe.",
       "example_en": "There's a party with meat bread, filhós pastries and chestnut soup."
     },
@@ -31036,7 +31036,7 @@
       "pt": "leiloar",
       "de": "versteigern",
       "en": "to auction",
-      "example": "O sutia da irma famosa vai ser leiloado.",
+      "example": "O sutiã da irmã famosa vai ser leiloado.",
       "example_de": "Der Büstenhalter der berühmten Schwester wird versteigert.",
       "example_en": "The famous sister's bra will be auctioned."
     },
@@ -31044,7 +31044,7 @@
       "pt": "infetar",
       "de": "infizieren",
       "en": "to infect",
-      "example": "Um virus conhecido ha decadas infetou um ser humano pela primeira vez.",
+      "example": "Um vírus conhecido há décadas infetou um ser humano pela primeira vez.",
       "example_de": "Ein seit Jahrzehnten bekanntes Virus hat erstmals einen Menschen infiziert.",
       "example_en": "A virus known for decades infected a human for the first time."
     },
@@ -31052,15 +31052,15 @@
       "pt": "a sopa de castanha",
       "de": "die Kastaniensuppe",
       "en": "the chestnut soup",
-      "example": "Ha uma festa com bola de carne, filhoses e sopa de castanha.",
+      "example": "Há uma festa com bola de carne, filhoses e sopa de castanha.",
       "example_de": "Es gibt ein Fest mit Fleischbrot, fritierten Teigfladen und Kastaniensuppe.",
       "example_en": "There's a party with meat bread, filhós pastries and chestnut soup."
     },
     {
-      "pt": "a violacao",
+      "pt": "a violação",
       "de": "die Vergewaltigung",
       "en": "the rape",
-      "example": "O autor e suspeito de um crime de violacao.",
+      "example": "O autor é suspeito de um crime de violação.",
       "example_de": "Der Täter ist verdächtig eines Vergewaltigungsdelikts.",
       "example_en": "The perpetrator is suspected of a rape crime."
     },
@@ -31068,7 +31068,7 @@
       "pt": "a volta",
       "de": "die Runde/Stichwahl",
       "en": "the round (election)",
-      "example": "Lula da Silva foi reeleito na segunda volta das eleicoes.",
+      "example": "Lula da Silva foi reeleito na segunda volta das eleições.",
       "example_de": "Lula da Silva wurde in der zweiten Stichwahl der Wahlen wiedergewählt.",
       "example_en": "Lula da Silva was reelected in the second round of the elections."
     }
@@ -31727,7 +31727,7 @@
       "pt": "a catana",
       "de": "das Katana (Schwert)",
       "en": "the katana (sword)",
-      "example": "Ameacou-a com uma catana em Tabua",
+      "example": "Ameaçou-a com uma catana em Tábua",
       "example_de": "Er bedrohte sie mit einem Katana in Tabua",
       "example_en": "He threatened her with a katana in Tabua"
     },
@@ -31735,8 +31735,8 @@
       "pt": "apagar",
       "de": "ausmachen",
       "en": "to extinguish/put out",
-      "example": "Apagava cigarros no corpo da vitima",
-      "example_de": "Er loeschte Zigaretten am Koerper des Opfers",
+      "example": "Apagava cigarros no corpo da vítima",
+      "example_de": "Er löschte Zigaretten am Körper des Opfers",
       "example_en": "He put out cigarettes on the victim's body"
     },
     {
@@ -31744,7 +31744,7 @@
       "de": "die Zigarette",
       "en": "the cigarette",
       "example": "Apagava cigarros no corpo dela",
-      "example_de": "Er loeschte Zigaretten an ihrem Koerper",
+      "example_de": "Er löschte Zigaretten an ihrem Körper",
       "example_en": "He put out cigarettes on her body"
     },
     {
@@ -31759,7 +31759,7 @@
       "pt": "o treino",
       "de": "das Training",
       "en": "the training",
-      "example": "Congresso dedicado a educacao e treino de caes",
+      "example": "Congresso dedicado à educação e treino de cães",
       "example_de": "Kongress gewidmet Erziehung und Training von Hunden",
       "example_en": "Congress dedicated to dog education and training"
     },
@@ -31767,7 +31767,7 @@
       "pt": "o cão",
       "de": "der Hund",
       "en": "the dog",
-      "example": "Educacao e treino de caes em Coimbra",
+      "example": "Educação e treino de cães em Coimbra",
       "example_de": "Erziehung und Training von Hunden in Coimbra",
       "example_en": "Dog education and training in Coimbra"
     },
@@ -31775,23 +31775,23 @@
       "pt": "solidária",
       "de": "solidarisch/wohltätig",
       "en": "charitable/solidary",
-      "example": "Uma causa solidaria juntou centenas de pessoas",
-      "example_de": "Ein wohltaetiges Anliegen versammelte Hunderte von Menschen",
+      "example": "Uma causa solidária juntou centenas de pessoas",
+      "example_de": "Ein wohltätiges Anliegen versammelte Hunderte von Menschen",
       "example_en": "A charitable cause gathered hundreds of people"
     },
     {
       "pt": "a pastelaria",
       "de": "die Konditorei",
       "en": "the pastry shop",
-      "example": "Esta pastelaria de Coimbra esta de parabens",
+      "example": "Esta pastelaria de Coimbra está de parabéns",
       "example_de": "Diese Konditorei aus Coimbra hat Grund zum Feiern",
       "example_en": "This pastry shop from Coimbra deserves congratulations"
     },
     {
-      "pt": "de parabens",
+      "pt": "de parabéns",
       "de": "Grund zum Feiern",
       "en": "congratulations-worthy",
-      "example": "Esta pastelaria esta de parabens",
+      "example": "Esta pastelaria está de parabéns",
       "example_de": "Diese Konditorei hat Grund zum Feiern",
       "example_en": "This pastry shop deserves congratulations"
     },
@@ -31816,7 +31816,7 @@
       "de": "das Weihnachten",
       "en": "Christmas",
       "example": "Inclui a abertura do Mercado Encantado de Natal",
-      "example_de": "Umfasst die Eroeffnung des verzauberten Weihnachtsmarktes",
+      "example_de": "Umfasst die Eröffnung des verzauberten Weihnachtsmarktes",
       "example_en": "Includes the opening of the enchanted Christmas market"
     },
     {
@@ -31824,14 +31824,14 @@
       "de": "verzaubert",
       "en": "enchanted",
       "example": "A abertura do Mercado Encantado",
-      "example_de": "Die Eroeffnung des verzauberten Marktes",
+      "example_de": "Die Eröffnung des verzauberten Marktes",
       "example_en": "The opening of the enchanted market"
     },
     {
       "pt": "a adaptação",
       "de": "die Anpassung",
       "en": "adaptation",
-      "example": "Projetos de adaptacao as alteracoes climaticas",
+      "example": "Projetos de adaptação às alterações climáticas",
       "example_de": "Projekte zur Anpassung an den Klimawandel",
       "example_en": "Climate change adaptation projects"
     },
@@ -31840,7 +31840,7 @@
       "de": "die Figur/Person",
       "en": "the character",
       "example": "Vai dar vida a uma personagem de A Bela e o Monstro",
-      "example_de": "Wird eine Figur aus Die Schoene und das Biest spielen",
+      "example_de": "Wird eine Figur aus Die Schöne und das Biest spielen",
       "example_en": "Will play a character from Beauty and the Beast"
     },
     {
@@ -31855,15 +31855,15 @@
       "pt": "perseguida",
       "de": "verfolgt",
       "en": "persecuted",
-      "example": "A historia de Sara perseguida pela Inquisicao",
+      "example": "A história de Sara perseguida pela Inquisição",
       "example_de": "Die Geschichte von Sara verfolgt von der Inquisition",
       "example_en": "The story of Sara persecuted by the Inquisition"
     },
     {
       "pt": "a bebida",
-      "de": "das Getraenk",
+      "de": "das Getränk",
       "en": "the drink",
-      "example": "Bebidas energeticas e produtos estimulantes",
+      "example": "Bebidas energéticas e produtos estimulantes",
       "example_de": "Energydrinks und Stimulanzien",
       "example_en": "Energy drinks and stimulant products"
     },
@@ -31871,7 +31871,7 @@
       "pt": "estimulante",
       "de": "anregend/stimulierend",
       "en": "stimulant",
-      "example": "Produtos estimulantes que contem cafeina",
+      "example": "Produtos estimulantes que contêm cafeína",
       "example_de": "Stimulierende Produkte die Koffein enthalten",
       "example_en": "Stimulant products containing caffeine"
     },
@@ -31879,7 +31879,7 @@
       "pt": "a cafeína",
       "de": "das Koffein",
       "en": "caffeine",
-      "example": "Produtos estimulantes com cafeina",
+      "example": "Produtos estimulantes com cafeína",
       "example_de": "Stimulierende Produkte mit Koffein",
       "example_en": "Stimulant products with caffeine"
     },
@@ -31887,7 +31887,7 @@
       "pt": "a parada",
       "de": "der Umzug/Parade",
       "en": "the parade",
-      "example": "Criancas vao transformar a cidade numa parada musical",
+      "example": "Crianças vão transformar a cidade numa parada musical",
       "example_de": "Kinder werden die Stadt in einen musikalischen Umzug verwandeln",
       "example_en": "Children will transform the city into a musical parade"
     },
