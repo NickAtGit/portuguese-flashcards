@@ -33023,5 +33023,127 @@
       "example_de": "Es sind Christmas Fitness Kurse und sportliche Aktivitäten geplant",
       "example_en": "Christmas Fitness classes and sports activities are planned"
     }
+  ],
+  "2026-11-16": [
+    {
+      "pt": "amaldiçoado",
+      "de": "verflucht",
+      "en": "cursed",
+      "example": "A vítima foi convencida de que o dinheiro estava amaldiçoado",
+      "example_de": "Das Opfer wurde überzeugt, dass das Geld verflucht war",
+      "example_en": "The victim was convinced the money was cursed"
+    },
+    {
+      "pt": "o repovoamento",
+      "de": "Wiederaufforstung",
+      "en": "reforestation",
+      "example": "Incentivar o repovoamento da serra",
+      "example_de": "Die Wiederaufforstung des Gebirges fördern",
+      "example_en": "Encourage reforestation of the mountain range"
+    },
+    {
+      "pt": "o azevinho",
+      "de": "Stechpalme",
+      "en": "holly",
+      "example": "Apanhar azevinho para o Natal pode dar multas",
+      "example_de": "Stechpalme für Weihnachten sammeln kann Strafen geben",
+      "example_en": "Picking holly for Christmas can result in fines"
+    },
+    {
+      "pt": "o presépio",
+      "de": "Krippe",
+      "en": "nativity scene",
+      "example": "Musgo para construir os tradicionais presépios",
+      "example_de": "Moos zum Bau traditioneller Krippen",
+      "example_en": "Moss for building traditional nativity scenes"
+    },
+    {
+      "pt": "o cadeireiro",
+      "de": "Stuhlmacher",
+      "en": "chairmaker",
+      "example": "José é o último cadeireiro da aldeia",
+      "example_de": "José ist der letzte Stuhlmacher des Dorfes",
+      "example_en": "José is the last chairmaker in the village"
+    },
+    {
+      "pt": "o narcotráfico",
+      "de": "Drogenhandel",
+      "en": "drug trafficking",
+      "example": "Operação de combate ao narcotráfico",
+      "example_de": "Operation zur Bekämpfung des Drogenhandels",
+      "example_en": "Drug trafficking combat operation"
+    },
+    {
+      "pt": "a vivenda",
+      "de": "Einfamilienhaus",
+      "en": "detached house",
+      "example": "O alerta foi dado para uma vivenda na Pampilhosa",
+      "example_de": "Der Alarm wurde für ein Einfamilienhaus in Pampilhosa ausgelöst",
+      "example_en": "The alert was raised for a house in Pampilhosa"
+    },
+    {
+      "pt": "a taróloga",
+      "de": "Wahrsagerin",
+      "en": "fortune teller (female)",
+      "example": "A falsa taróloga foi detida pela PJ",
+      "example_de": "Die falsche Wahrsagerin wurde von der PJ festgenommen",
+      "example_en": "The fake fortune teller was arrested by PJ"
+    },
+    {
+      "pt": "a derrota",
+      "de": "Niederlage",
+      "en": "defeat",
+      "example": "A Académica escapa à derrota em Portimão",
+      "example_de": "Académica entgeht der Niederlage in Portimão",
+      "example_en": "Académica escapes defeat in Portimão"
+    },
+    {
+      "pt": "a defesa",
+      "de": "Abwehr, Parade",
+      "en": "save, defense",
+      "example": "Muitas defesas do guarda-redes",
+      "example_de": "Viele Paraden des Torwarts",
+      "example_en": "Many saves by the goalkeeper"
+    },
+    {
+      "pt": "os ferros",
+      "de": "Pfosten und Latte",
+      "en": "the woodwork (goalposts/crossbar)",
+      "example": "Bolas nos ferros do golo",
+      "example_de": "Bälle an Pfosten und Latte",
+      "example_en": "Balls hitting the woodwork"
+    },
+    {
+      "pt": "o seguidor",
+      "de": "Follower, Anhänger",
+      "en": "follower",
+      "example": "Padre com 111 mil seguidores no Instagram",
+      "example_de": "Pfarrer mit 111.000 Followern auf Instagram",
+      "example_en": "Priest with 111 thousand followers on Instagram"
+    },
+    {
+      "pt": "o sogro",
+      "de": "Schwiegervater",
+      "en": "father-in-law",
+      "example": "Há quem viaje quilómetros para o conhecer",
+      "example_de": "Manche reisen Kilometer, um ihn zu treffen",
+      "example_en": "Some travel kilometres to meet him"
+    },
+    {
+      "pt": "a iluminação",
+      "de": "Beleuchtung",
+      "en": "lighting",
+      "example": "Inauguração das iluminações natalícias",
+      "example_de": "Eröffnung der Weihnachtsbeleuchtung",
+      "example_en": "Opening of the Christmas lights"
+    },
+    {
+      "pt": "o formador",
+      "de": "Ausbilder, Dozent",
+      "en": "trainer, instructor",
+      "example": "Dificuldades para pagar aos formadores externos",
+      "example_de": "Schwierigkeiten, externe Ausbilder zu bezahlen",
+      "example_en": "Difficulties paying external trainers"
+    }
   ]
 }
